@@ -33,15 +33,15 @@
     <contour>
       <point x="228" y="1" type="qcurve"/>
       <point x="228" y="1"/>
-      <point x="305" y="78"/>
-      <point x="378" y="152" type="qcurve"/>
-      <point x="378" y="152"/>
-      <point x="378" y="152"/>
-      <point x="305" y="78" type="qcurve"/>
-      <point x="305" y="78"/>
-      <point x="305" y="78"/>
-      <point x="305" y="78" type="qcurve"/>
       <point x="228" y="1"/>
+      <point x="305" y="78" type="qcurve"/>
+      <point x="305" y="78"/>
+      <point x="305" y="78"/>
+      <point x="305" y="78" type="qcurve"/>
+      <point x="378" y="152"/>
+      <point x="378" y="152"/>
+      <point x="378" y="152" type="qcurve"/>
+      <point x="305" y="78"/>
       <point x="228" y="1"/>
     </contour>
     <contour>

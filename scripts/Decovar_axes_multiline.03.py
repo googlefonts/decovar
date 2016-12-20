@@ -155,7 +155,7 @@ for frame in range(frames):
         increment = (axes[currentAxis][1] - axes[currentAxis][0]) / segmentFrames
         direction = 1
         
-    with open(os.path.join(base, 'status.txt'), 'w') as statusFile:
+    with open(os.path.join(base, 'scripts/status.txt'), 'w') as statusFile:
         statusFile.write('%s/%s' %(str(frame+1), str(frames)))
     
     #u.save()
