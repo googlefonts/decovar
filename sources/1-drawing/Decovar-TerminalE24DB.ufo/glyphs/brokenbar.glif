@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="brokenbar" format="1">
+  <advance width="564"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="200" y="349" type="line"/>
+      <point x="364" y="349" type="line"/>
+      <point x="364" y="-501" type="line"/>
+      <point x="200" y="-501" type="line"/>
+    </contour>
+    <contour>
+      <point x="200" y="1500" type="line"/>
+      <point x="364" y="1500" type="line"/>
+      <point x="364" y="650" type="line"/>
+      <point x="200" y="650" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.0</real>
+        <real>0.5</real>
+        <real>1.0</real>
+        <real>0.5</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

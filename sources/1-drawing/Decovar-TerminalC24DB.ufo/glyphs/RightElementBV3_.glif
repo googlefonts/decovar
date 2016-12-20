@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RightElementBV3" format="1">
+  <advance width="656"/>
+  <outline>
+    <contour>
+      <point x="267" y="-7" type="qcurve"/>
+      <point x="246" y="0"/>
+      <point x="246" y="0"/>
+      <point x="246" y="32" type="qcurve" smooth="yes"/>
+      <point x="246" y="73"/>
+      <point x="246" y="73"/>
+      <point x="266" y="73" type="qcurve"/>
+      <point x="276" y="73"/>
+      <point x="276" y="73"/>
+      <point x="276" y="32" type="qcurve"/>
+      <point x="293" y="-16"/>
+      <point x="293" y="-16"/>
+    </contour>
+    <contour>
+      <point x="364" y="-89" type="qcurve"/>
+      <point x="319" y="-89"/>
+      <point x="293" y="-16"/>
+      <point x="276" y="32" type="qcurve"/>
+      <point x="276" y="73"/>
+      <point x="276" y="73"/>
+      <point x="352" y="73" type="qcurve"/>
+      <point x="410" y="73"/>
+      <point x="410" y="73"/>
+      <point x="410" y="32" type="qcurve" smooth="yes"/>
+      <point x="410" y="-89"/>
+      <point x="410" y="-89"/>
+    </contour>
+    <contour>
+      <point x="287" y="73" type="qcurve" smooth="yes"/>
+      <point x="246" y="73"/>
+      <point x="246" y="73"/>
+      <point x="246" y="111" type="qcurve"/>
+      <point x="246" y="149"/>
+      <point x="246" y="149"/>
+      <point x="287" y="149" type="qcurve" smooth="yes"/>
+      <point x="328" y="149"/>
+      <point x="328" y="149"/>
+      <point x="328" y="111" type="qcurve"/>
+      <point x="328" y="73"/>
+      <point x="328" y="73"/>
+    </contour>
+    <contour>
+      <point x="369" y="73" type="qcurve" smooth="yes"/>
+      <point x="328" y="73"/>
+      <point x="328" y="73"/>
+      <point x="328" y="111" type="qcurve"/>
+      <point x="328" y="149"/>
+      <point x="328" y="149"/>
+      <point x="369" y="149" type="qcurve" smooth="yes"/>
+      <point x="410" y="149"/>
+      <point x="410" y="149"/>
+      <point x="410" y="111" type="qcurve"/>
+      <point x="410" y="73"/>
+      <point x="410" y="73"/>
+    </contour>
+  </outline>
+</glyph>

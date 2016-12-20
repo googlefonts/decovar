@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="1">
+  <advance width="738.0"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="453" y="676" type="qcurve" smooth="yes"/>
+      <point x="493" y="676"/>
+      <point x="493" y="676"/>
+      <point x="493" y="641" type="qcurve" smooth="yes"/>
+      <point x="493" y="608"/>
+      <point x="493" y="608"/>
+      <point x="453" y="608" type="qcurve"/>
+      <point x="409" y="608"/>
+      <point x="409" y="608"/>
+      <point x="368" y="608" type="qcurve" smooth="yes"/>
+      <point x="328" y="608"/>
+      <point x="328" y="608"/>
+      <point x="328" y="642" type="qcurve" smooth="yes"/>
+      <point x="328" y="676"/>
+      <point x="328" y="676"/>
+      <point x="368" y="676" type="qcurve"/>
+      <point x="409" y="676"/>
+      <point x="409" y="676"/>
+    </contour>
+    <contour>
+      <point x="453" y="760" type="qcurve" smooth="yes"/>
+      <point x="493" y="760"/>
+      <point x="493" y="760"/>
+      <point x="493" y="725" type="qcurve" smooth="yes"/>
+      <point x="493" y="692"/>
+      <point x="493" y="692"/>
+      <point x="453" y="692" type="qcurve" smooth="yes"/>
+      <point x="409" y="692"/>
+      <point x="409" y="692"/>
+      <point x="368" y="692" type="qcurve" smooth="yes"/>
+      <point x="328" y="692"/>
+      <point x="328" y="692"/>
+      <point x="328" y="726" type="qcurve" smooth="yes"/>
+      <point x="328" y="760"/>
+      <point x="328" y="760"/>
+      <point x="368" y="760" type="qcurve"/>
+      <point x="409" y="760"/>
+      <point x="409" y="760"/>
+    </contour>
+    <contour>
+      <point x="534.0" y="1284.0" type="qcurve" smooth="yes"/>
+      <point x="574.0" y="1284.0"/>
+      <point x="574.0" y="1284.0"/>
+      <point x="574.0" y="1249.0" type="qcurve" smooth="yes"/>
+      <point x="574.0" y="1216.0"/>
+      <point x="574.0" y="1216.0"/>
+      <point x="534.0" y="1216.0" type="qcurve" smooth="yes"/>
+      <point x="510.0" y="1216.0"/>
+      <point x="466.0" y="1216.0"/>
+      <point x="445.0" y="1216.0" type="qcurve" smooth="yes"/>
+      <point x="426.0" y="1216.0"/>
+      <point x="388.0" y="1216.0"/>
+      <point x="368.0" y="1216.0" type="qcurve" smooth="yes"/>
+      <point x="328.0" y="1216.0"/>
+      <point x="328.0" y="1216.0"/>
+      <point x="328.0" y="1250.0" type="qcurve" smooth="yes"/>
+      <point x="328.0" y="1284.0"/>
+      <point x="328.0" y="1284.0"/>
+      <point x="368.0" y="1284.0" type="qcurve"/>
+      <point x="388.0" y="1284.0"/>
+      <point x="426.0" y="1284.0"/>
+      <point x="445.0" y="1284.0" type="qcurve" smooth="yes"/>
+      <point x="466.0" y="1284.0"/>
+      <point x="510.0" y="1284.0"/>
+    </contour>
+    <contour>
+      <point x="534.0" y="1368.0" type="qcurve" smooth="yes"/>
+      <point x="574.0" y="1368.0"/>
+      <point x="574.0" y="1368.0"/>
+      <point x="574.0" y="1333.0" type="qcurve" smooth="yes"/>
+      <point x="574.0" y="1300.0"/>
+      <point x="574.0" y="1300.0"/>
+      <point x="534.0" y="1300.0" type="qcurve" smooth="yes"/>
+      <point x="510.0" y="1300.0"/>
+      <point x="466.0" y="1300.0"/>
+      <point x="445.0" y="1300.0" type="qcurve" smooth="yes"/>
+      <point x="426.0" y="1300.0"/>
+      <point x="388.0" y="1300.0"/>
+      <point x="368.0" y="1300.0" type="qcurve" smooth="yes"/>
+      <point x="328.0" y="1300.0"/>
+      <point x="328.0" y="1300.0"/>
+      <point x="328.0" y="1334.0" type="qcurve" smooth="yes"/>
+      <point x="328.0" y="1368.0"/>
+      <point x="328.0" y="1368.0"/>
+      <point x="368.0" y="1368.0" type="qcurve"/>
+      <point x="388.0" y="1368.0"/>
+      <point x="426.0" y="1368.0"/>
+      <point x="445.0" y="1368.0" type="qcurve" smooth="yes"/>
+      <point x="466.0" y="1368.0"/>
+      <point x="510.0" y="1368.0"/>
+    </contour>
+    <component base="TopElementV2" xOffset="-82"/>
+    <component base="BaseElementV3" xOffset="-82"/>
+    <component base="MidElement" xOffset="-82"/>
+    <component base="WaistElement" xOffset="-82"/>
+    <component base="RightElementV3" xOffset="247" yOffset="608"/>
+    <component base="RightElementBV3" xOffset="328" yOffset="1216"/>
+    <component base="RightElementBV3" xOffset="247" yOffset="608"/>
+  </outline>
+</glyph>

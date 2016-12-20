@@ -1,0 +1,8 @@
+src = OpenFont(u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-Regular24DB.ufo", showUI=False)
+
+for path in [u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-SkeletonA24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-SkeletonB24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-SkeletonC24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalA24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalB24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalC24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalD24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalE24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalF24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalG24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalJ24DB.ufo"]:
+    f = OpenFont(path, showUI=False)
+    for gname in ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'zero']:
+        f.insertGlyph(src[gname])
+    f.save()
+    f.close()
