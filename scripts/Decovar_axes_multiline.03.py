@@ -160,7 +160,7 @@ for frame in range(frames):
     
     #u.save()
 if not interactive:
-    saveImage(os.path.join(base, 'decovar-demo.gif'))
+    saveImage(os.path.join(base, 'documentation/decovar-demo.gif'))
 
 for path in fontsToRemove:
     os.remove(path)
