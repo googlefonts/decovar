@@ -4,6 +4,58 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
+      <point x="350" y="244" type="qcurve"/>
+      <point x="249" y="244"/>
+      <point x="249" y="244"/>
+      <point x="264" y="278" type="qcurve" smooth="yes"/>
+      <point x="279" y="312"/>
+      <point x="279" y="312"/>
+      <point x="350" y="312" type="qcurve"/>
+      <point x="395" y="312"/>
+      <point x="544" y="312"/>
+      <point x="629" y="312" type="qcurve"/>
+      <point x="707" y="312"/>
+      <point x="868" y="312"/>
+      <point x="938" y="312" type="qcurve"/>
+      <point x="988" y="312"/>
+      <point x="988" y="312"/>
+      <point x="1003" y="278" type="qcurve" smooth="yes"/>
+      <point x="1018" y="244"/>
+      <point x="1018" y="244"/>
+      <point x="963" y="244" type="qcurve" smooth="yes"/>
+      <point x="889" y="244"/>
+      <point x="715" y="244"/>
+      <point x="629" y="244" type="qcurve"/>
+      <point x="544" y="244"/>
+      <point x="392" y="244"/>
+    </contour>
+    <contour>
+      <point x="350" y="312" type="qcurve"/>
+      <point x="279" y="312"/>
+      <point x="279" y="312"/>
+      <point x="294" y="346" type="qcurve" smooth="yes"/>
+      <point x="309" y="380"/>
+      <point x="309" y="380"/>
+      <point x="350" y="380" type="qcurve"/>
+      <point x="406" y="380"/>
+      <point x="554" y="380"/>
+      <point x="629" y="380" type="qcurve"/>
+      <point x="704" y="380"/>
+      <point x="845" y="380"/>
+      <point x="910" y="380" type="qcurve" smooth="yes"/>
+      <point x="958" y="380"/>
+      <point x="958" y="380"/>
+      <point x="973" y="346" type="qcurve" smooth="yes"/>
+      <point x="988" y="312"/>
+      <point x="988" y="312"/>
+      <point x="938" y="312" type="qcurve" smooth="yes"/>
+      <point x="870" y="312"/>
+      <point x="709" y="312"/>
+      <point x="629" y="312" type="qcurve"/>
+      <point x="540" y="312"/>
+      <point x="387" y="312"/>
+    </contour>
+    <contour>
       <point x="339" y="723" type="qcurve"/>
       <point x="306" y="737"/>
       <point x="306" y="737"/>
@@ -83,58 +135,6 @@
       <point x="901" y="705"/>
       <point x="901" y="705"/>
     </contour>
-    <contour>
-      <point x="910" y="380" type="qcurve" smooth="yes"/>
-      <point x="958" y="380"/>
-      <point x="958" y="380"/>
-      <point x="973" y="346" type="qcurve" smooth="yes"/>
-      <point x="988" y="312"/>
-      <point x="988" y="312"/>
-      <point x="938" y="312" type="qcurve" smooth="yes"/>
-      <point x="870" y="312"/>
-      <point x="709" y="312"/>
-      <point x="629" y="312" type="qcurve"/>
-      <point x="540" y="312"/>
-      <point x="387" y="312"/>
-      <point x="350" y="312" type="qcurve"/>
-      <point x="279" y="312"/>
-      <point x="279" y="312"/>
-      <point x="294" y="346" type="qcurve" smooth="yes"/>
-      <point x="309" y="380"/>
-      <point x="309" y="380"/>
-      <point x="350" y="380" type="qcurve"/>
-      <point x="406" y="380"/>
-      <point x="554" y="380"/>
-      <point x="629" y="380" type="qcurve"/>
-      <point x="704" y="380"/>
-      <point x="845" y="380"/>
-    </contour>
-    <contour>
-      <point x="938" y="312" type="qcurve"/>
-      <point x="988" y="312"/>
-      <point x="988" y="312"/>
-      <point x="1003" y="278" type="qcurve" smooth="yes"/>
-      <point x="1018" y="244"/>
-      <point x="1018" y="244"/>
-      <point x="963" y="244" type="qcurve" smooth="yes"/>
-      <point x="889" y="244"/>
-      <point x="715" y="244"/>
-      <point x="629" y="244" type="qcurve"/>
-      <point x="544" y="244"/>
-      <point x="392" y="244"/>
-      <point x="350" y="244" type="qcurve"/>
-      <point x="249" y="244"/>
-      <point x="249" y="244"/>
-      <point x="264" y="278" type="qcurve" smooth="yes"/>
-      <point x="279" y="312"/>
-      <point x="279" y="312"/>
-      <point x="350" y="312" type="qcurve"/>
-      <point x="395" y="312"/>
-      <point x="544" y="312"/>
-      <point x="629" y="312" type="qcurve"/>
-      <point x="707" y="312"/>
-      <point x="868" y="312"/>
-    </contour>
     <component base="TopCrown" xOffset="465"/>
     <component base="CWTermMidWaist" xScale="-0.9144513511998228" xyScale="0.4046958441704308" yxScale="-0.4046958441704308" yScale="-0.9144513511998228" xOffset="850" yOffset="1164"/>
     <component base="CCWTermMidWaist" xScale="-0.916508931755964" xyScale="-0.400014222261586" yxScale="0.400014222261586" yScale="-0.916508931755964" xOffset="890" yOffset="1366"/>
@@ -179,6 +179,13 @@
           <integer>1274</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

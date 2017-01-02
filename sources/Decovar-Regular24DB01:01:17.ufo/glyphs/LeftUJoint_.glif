@@ -3,9 +3,6 @@
   <advance width="556"/>
   <outline>
     <contour>
-      <point x="519" y="15" type="qcurve"/>
-      <point x="519" y="-23"/>
-      <point x="519" y="-23"/>
       <point x="490" y="-23" type="qcurve"/>
       <point x="396" y="-23"/>
       <point x="210" y="49"/>
@@ -27,11 +24,11 @@
       <point x="499" y="51" type="qcurve"/>
       <point x="519" y="51"/>
       <point x="519" y="51"/>
+      <point x="519" y="15" type="qcurve"/>
+      <point x="519" y="-23"/>
+      <point x="519" y="-23"/>
     </contour>
     <contour>
-      <point x="519" y="88" type="qcurve"/>
-      <point x="519" y="51"/>
-      <point x="519" y="51"/>
       <point x="499" y="51" type="qcurve"/>
       <point x="411" y="54"/>
       <point x="255" y="115"/>
@@ -53,6 +50,20 @@
       <point x="510" y="125" type="qcurve"/>
       <point x="519" y="125"/>
       <point x="519" y="125"/>
+      <point x="519" y="88" type="qcurve"/>
+      <point x="519" y="51"/>
+      <point x="519" y="51"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.502</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

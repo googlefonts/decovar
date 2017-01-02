@@ -165,4 +165,15 @@
     <component base="RightTopTerminal" xOffset="410" yOffset="1216"/>
     <component base="RightTopTerminal" xOffset="328" yOffset="608"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

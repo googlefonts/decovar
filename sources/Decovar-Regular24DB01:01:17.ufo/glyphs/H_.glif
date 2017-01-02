@@ -58,4 +58,15 @@
     <component base="CapStemPatternV3" xOffset="-82"/>
     <component base="CapStemPatternV3" xOffset="902"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -23,6 +23,8 @@ if True:
         g.prepareUndo()
         g.autoContourOrder()
         for ci, c in enumerate(g.contours):
+            if not c.clockwise:
+                c.reverseContour()
             bmlm = getBottomMostLeftMost(c)
             newStart = None
             for i, s in enumerate(c.segments):

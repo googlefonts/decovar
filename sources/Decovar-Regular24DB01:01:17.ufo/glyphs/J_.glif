@@ -4,60 +4,60 @@
   <unicode hex="004A"/>
   <outline>
     <contour>
-      <point x="240" y="124" type="qcurve"/>
-      <point x="260" y="124"/>
-      <point x="260" y="124"/>
-      <point x="260" y="86" type="qcurve"/>
-      <point x="260" y="51"/>
-      <point x="260" y="51"/>
-      <point x="240" y="51" type="qcurve"/>
-      <point x="220" y="51"/>
-      <point x="220" y="51"/>
-      <point x="220" y="86" type="qcurve"/>
-      <point x="220" y="124"/>
-      <point x="220" y="124"/>
-    </contour>
-    <contour>
-      <point x="240" y="51" type="qcurve"/>
-      <point x="260" y="51"/>
-      <point x="260" y="51"/>
-      <point x="260" y="17" type="qcurve"/>
-      <point x="260" y="-24"/>
-      <point x="260" y="-24"/>
-      <point x="240" y="-24" type="qcurve"/>
-      <point x="220" y="-24"/>
-      <point x="220" y="-24"/>
-      <point x="220" y="17" type="qcurve"/>
-      <point x="220" y="51"/>
-      <point x="220" y="51"/>
-    </contour>
-    <contour>
-      <point x="200" y="124" type="qcurve"/>
-      <point x="220" y="124"/>
-      <point x="220" y="124"/>
-      <point x="220" y="86" type="qcurve"/>
-      <point x="220" y="51"/>
-      <point x="220" y="51"/>
-      <point x="200" y="51" type="qcurve"/>
-      <point x="180" y="51"/>
-      <point x="180" y="51"/>
-      <point x="180" y="86" type="qcurve"/>
-      <point x="180" y="125"/>
-      <point x="180" y="125"/>
-    </contour>
-    <contour>
-      <point x="200" y="51" type="qcurve"/>
-      <point x="220" y="51"/>
-      <point x="220" y="51"/>
-      <point x="220" y="17" type="qcurve"/>
-      <point x="220" y="-24"/>
-      <point x="220" y="-24"/>
       <point x="200" y="-23" type="qcurve"/>
       <point x="180" y="-22"/>
       <point x="180" y="-22"/>
       <point x="180" y="17" type="qcurve"/>
       <point x="180" y="51"/>
       <point x="180" y="51"/>
+      <point x="200" y="51" type="qcurve"/>
+      <point x="220" y="51"/>
+      <point x="220" y="51"/>
+      <point x="220" y="17" type="qcurve"/>
+      <point x="220" y="-24"/>
+      <point x="220" y="-24"/>
+    </contour>
+    <contour>
+      <point x="200" y="51" type="qcurve"/>
+      <point x="180" y="51"/>
+      <point x="180" y="51"/>
+      <point x="180" y="86" type="qcurve"/>
+      <point x="180" y="125"/>
+      <point x="180" y="125"/>
+      <point x="200" y="124" type="qcurve"/>
+      <point x="220" y="124"/>
+      <point x="220" y="124"/>
+      <point x="220" y="86" type="qcurve"/>
+      <point x="220" y="51"/>
+      <point x="220" y="51"/>
+    </contour>
+    <contour>
+      <point x="240" y="-24" type="qcurve"/>
+      <point x="220" y="-24"/>
+      <point x="220" y="-24"/>
+      <point x="220" y="17" type="qcurve"/>
+      <point x="220" y="51"/>
+      <point x="220" y="51"/>
+      <point x="240" y="51" type="qcurve"/>
+      <point x="260" y="51"/>
+      <point x="260" y="51"/>
+      <point x="260" y="17" type="qcurve"/>
+      <point x="260" y="-24"/>
+      <point x="260" y="-24"/>
+    </contour>
+    <contour>
+      <point x="240" y="51" type="qcurve"/>
+      <point x="220" y="51"/>
+      <point x="220" y="51"/>
+      <point x="220" y="86" type="qcurve"/>
+      <point x="220" y="124"/>
+      <point x="220" y="124"/>
+      <point x="240" y="124" type="qcurve"/>
+      <point x="260" y="124"/>
+      <point x="260" y="124"/>
+      <point x="260" y="86" type="qcurve"/>
+      <point x="260" y="51"/>
+      <point x="260" y="51"/>
     </contour>
     <component base="BaseLeftCurvedElement"/>
     <component base="TopTerminalV3" xOffset="303"/>
@@ -528,6 +528,13 @@
           <integer>863</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>
