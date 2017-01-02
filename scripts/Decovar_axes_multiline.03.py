@@ -157,7 +157,7 @@ for frame in range(frames):
         
     with open(os.path.join(base, 'scripts/status.txt'), 'w') as statusFile:
         statusFile.write('%s/%s' %(str(frame+1), str(frames)))
-    
+        break    
     #u.save()
 if not interactive:
     saveImage(os.path.join(base, 'documentation/decovar-demo.gif'))
