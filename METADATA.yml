@@ -1,0 +1,20 @@
+---
+unified font repository version: "0.2"
+unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface family:
+  name: Amstelvar
+  tags:
+  - sans-seif
+  - variable
+  - parametric
+  - decorative
+  repository url: https://github.com/typenetwork/fb-Decovar
+  project url: http://fontbureau.typenetwork.com
+  tools:
+  - RoboFont
+  - fontTools
+  - Prepolator
+  similar fonts:
+  sample text:
+  - en_us: The quick brown fox jumps over the lazy dog
+...
