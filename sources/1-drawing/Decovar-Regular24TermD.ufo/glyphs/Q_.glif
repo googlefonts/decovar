@@ -56,7 +56,6 @@
       <point x="902" y="-262"/>
     </contour>
     <component base="O"/>
-    <component base="BaseElement3" xOffset="393" yOffset="-424"/>
     <component base="BaseTerminal" xOffset="492" yOffset="-414"/>
   </outline>
   <lib>

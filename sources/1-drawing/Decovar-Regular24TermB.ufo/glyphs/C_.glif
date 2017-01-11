@@ -196,60 +196,60 @@
       <point x="867" y="1324"/>
     </contour>
     <contour>
-      <point x="1025" y="0" type="qcurve"/>
+      <point x="1009" y="-4" type="qcurve"/>
       <point x="984" y="-11"/>
       <point x="984" y="-11"/>
       <point x="984" y="27" type="qcurve"/>
       <point x="984" y="63"/>
       <point x="984" y="63"/>
-      <point x="1026" y="75" type="qcurve"/>
-      <point x="1066" y="89"/>
-      <point x="1066" y="89"/>
-      <point x="1066" y="51" type="qcurve"/>
-      <point x="1066" y="12"/>
-      <point x="1066" y="12"/>
+      <point x="1009" y="70" type="qcurve"/>
+      <point x="1033" y="78"/>
+      <point x="1033" y="78"/>
+      <point x="1033" y="37" type="qcurve"/>
+      <point x="1033" y="2"/>
+      <point x="1033" y="2"/>
     </contour>
     <contour>
-      <point x="1026" y="75" type="qcurve"/>
+      <point x="1009" y="70" type="qcurve"/>
       <point x="984" y="63"/>
       <point x="984" y="63"/>
       <point x="984" y="100" type="qcurve"/>
       <point x="984" y="136"/>
       <point x="984" y="136"/>
-      <point x="1027" y="150" type="qcurve"/>
-      <point x="1066" y="165"/>
-      <point x="1066" y="165"/>
-      <point x="1066" y="128" type="qcurve"/>
-      <point x="1066" y="89"/>
-      <point x="1066" y="89"/>
+      <point x="1009" y="144" type="qcurve"/>
+      <point x="1033" y="152"/>
+      <point x="1033" y="152"/>
+      <point x="1033" y="119" type="qcurve"/>
+      <point x="1033" y="78"/>
+      <point x="1033" y="78"/>
     </contour>
     <contour>
-      <point x="1108" y="27" type="qcurve"/>
-      <point x="1066" y="12"/>
-      <point x="1066" y="12"/>
-      <point x="1066" y="51" type="qcurve"/>
-      <point x="1066" y="89"/>
-      <point x="1066" y="89"/>
-      <point x="1107" y="108" type="qcurve"/>
-      <point x="1148" y="132"/>
-      <point x="1148" y="132"/>
-      <point x="1148" y="77" type="qcurve"/>
+      <point x="1081" y="17" type="qcurve"/>
+      <point x="1033" y="2"/>
+      <point x="1033" y="2"/>
+      <point x="1033" y="37" type="qcurve"/>
+      <point x="1033" y="78"/>
+      <point x="1033" y="78"/>
+      <point x="1081" y="96" type="qcurve"/>
+      <point x="1148" y="126"/>
+      <point x="1148" y="126"/>
+      <point x="1148" y="79" type="qcurve"/>
       <point x="1148" y="46"/>
       <point x="1148" y="46"/>
     </contour>
     <contour>
-      <point x="1107" y="108" type="qcurve"/>
-      <point x="1066" y="89"/>
-      <point x="1066" y="89"/>
-      <point x="1066" y="128" type="qcurve"/>
-      <point x="1066" y="165"/>
-      <point x="1066" y="165"/>
-      <point x="1105" y="186" type="qcurve"/>
-      <point x="1148" y="216"/>
-      <point x="1148" y="216"/>
+      <point x="1081" y="96" type="qcurve"/>
+      <point x="1033" y="78"/>
+      <point x="1033" y="78"/>
+      <point x="1033" y="119" type="qcurve"/>
+      <point x="1033" y="152"/>
+      <point x="1033" y="152"/>
+      <point x="1089" y="189" type="qcurve"/>
+      <point x="1148" y="260"/>
+      <point x="1148" y="260"/>
       <point x="1148" y="164" type="qcurve" smooth="yes"/>
-      <point x="1148" y="132"/>
-      <point x="1148" y="132"/>
+      <point x="1148" y="126"/>
+      <point x="1148" y="126"/>
     </contour>
     <component base="TopCurvedElement" xOffset="738" yOffset="-3"/>
     <component base="RoundWaistElement270" xOffset="82"/>

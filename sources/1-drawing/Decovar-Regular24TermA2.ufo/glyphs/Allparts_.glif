@@ -4,8 +4,6 @@
   <outline>
     <component base="BaseLeftCurvedElement" xOffset="1511" yOffset="-100"/>
     <component base="TopElementV1" xOffset="489" yOffset="1296"/>
-    <component base="BaseElement2" xOffset="295"/>
-    <component base="BaseElement2" xOffset="295"/>
     <component base="BaseElementV2" xOffset="550" yOffset="-82"/>
     <component base="BaseTerminal" xOffset="1278" yOffset="1292"/>
     <component base="LeftElementBV3" xOffset="285" yOffset="-80"/>

@@ -236,18 +236,18 @@
       <point x="870" y="1324"/>
     </contour>
     <contour>
-      <point x="1025" y="-1" type="qcurve"/>
-      <point x="984" y="-11"/>
-      <point x="984" y="-11"/>
+      <point x="988" y="-11" type="qcurve"/>
+      <point x="984" y="-12"/>
+      <point x="984" y="-12"/>
       <point x="984" y="24" type="qcurve"/>
       <point x="984" y="62"/>
       <point x="984" y="62"/>
       <point x="1026" y="74" type="qcurve"/>
       <point x="1066" y="88"/>
       <point x="1066" y="88"/>
-      <point x="1066" y="50" type="qcurve"/>
-      <point x="1066" y="11"/>
-      <point x="1066" y="11"/>
+      <point x="1066" y="71" type="qcurve"/>
+      <point x="992" y="-10"/>
+      <point x="992" y="-10"/>
     </contour>
     <contour>
       <point x="1026" y="74" type="qcurve"/>
@@ -264,21 +264,21 @@
       <point x="1066" y="88"/>
     </contour>
     <contour>
-      <point x="1107" y="27" type="qcurve"/>
-      <point x="1066" y="11"/>
-      <point x="1066" y="11"/>
-      <point x="1066" y="50" type="qcurve"/>
+      <point x="999" y="-8" type="qcurve" smooth="yes"/>
+      <point x="992" y="-10"/>
+      <point x="992" y="-10"/>
+      <point x="1066" y="71" type="qcurve"/>
       <point x="1066" y="88"/>
       <point x="1066" y="88"/>
-      <point x="1107" y="107" type="qcurve"/>
-      <point x="1148" y="131"/>
-      <point x="1148" y="131"/>
-      <point x="1148" y="76" type="qcurve"/>
-      <point x="1148" y="45"/>
-      <point x="1148" y="45"/>
+      <point x="1084" y="88" type="qcurve"/>
+      <point x="1148" y="143"/>
+      <point x="1148" y="143"/>
+      <point x="1148" y="140" type="qcurve"/>
+      <point x="1148" y="73"/>
+      <point x="1065" y="7"/>
     </contour>
     <contour>
-      <point x="1107" y="107" type="qcurve"/>
+      <point x="1084" y="88" type="qcurve"/>
       <point x="1066" y="88"/>
       <point x="1066" y="88"/>
       <point x="1066" y="127" type="qcurve"/>
@@ -288,8 +288,8 @@
       <point x="1148" y="215"/>
       <point x="1148" y="215"/>
       <point x="1148" y="163" type="qcurve" smooth="yes"/>
-      <point x="1148" y="131"/>
-      <point x="1148" y="131"/>
+      <point x="1148" y="143"/>
+      <point x="1148" y="143"/>
     </contour>
     <component base="TopTerminalV3" xOffset="738" yOffset="-716"/>
     <component base="TopCurvedElement" xOffset="719" yOffset="3"/>
@@ -299,6 +299,249 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>qcurve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>995</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>992</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>992</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>qcurve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1066</integer>
+                  <key>y</key>
+                  <integer>59</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1066</integer>
+                  <key>y</key>
+                  <integer>76</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1066</integer>
+                  <key>y</key>
+                  <integer>76</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>qcurve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1084</integer>
+                  <key>y</key>
+                  <integer>76</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1148</integer>
+                  <key>y</key>
+                  <integer>143</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1148</integer>
+                  <key>y</key>
+                  <integer>143</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>qcurve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>1148</integer>
+                  <key>y</key>
+                  <integer>140</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1148</integer>
+                  <key>y</key>
+                  <integer>73</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1069</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>qcurve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>988</integer>
+                  <key>y</key>
+                  <integer>-10</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>992</integer>
+                  <key>y</key>
+                  <integer>-9</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>992</integer>
+                  <key>y</key>
+                  <integer>-9</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>qcurve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1066</integer>
+                  <key>y</key>
+                  <integer>59</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1066</integer>
+                  <key>y</key>
+                  <integer>76</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>1066</integer>
+                  <key>y</key>
+                  <integer>76</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>qcurve</string>
+                  <key>smooth</key>
+                  <true/>
+                  <key>x</key>
+                  <integer>1025</integer>
+                  <key>y</key>
+                  <integer>76</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>984</integer>
+                  <key>y</key>
+                  <integer>76</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>984</integer>
+                  <key>y</key>
+                  <integer>76</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>qcurve</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>984</integer>
+                  <key>y</key>
+                  <integer>38</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>984</integer>
+                  <key>y</key>
+                  <integer>-11</integer>
+                </dict>
+                <dict>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>984</integer>
+                  <key>y</key>
+                  <integer>-11</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>G</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1230</integer>
+        </dict>
+      </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
