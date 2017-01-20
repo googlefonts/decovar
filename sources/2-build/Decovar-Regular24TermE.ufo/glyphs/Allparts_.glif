@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Allparts" format="1">
+  <advance width="3017"/>
+  <outline>
+    <component base="BaseLeftCurvedElement" xOffset="1511" yOffset="-100"/>
+    <component base="TopElementV1" xOffset="489" yOffset="1296"/>
+    <component base="BaseElementV2" xOffset="295"/>
+    <component base="BaseElementV2" xOffset="295"/>
+    <component base="BaseElementV2" xOffset="550" yOffset="-82"/>
+    <component base="BaseTerminal" xOffset="1278" yOffset="1292"/>
+    <component base="LeftElementBV3" xOffset="285" yOffset="-80"/>
+    <component base="LeftTopTerm" xOffset="254" yOffset="1296"/>
+    <component base="RightTopTerminal" xOffset="761" yOffset="1296"/>
+    <component base="RightBotTerm" xOffset="793" yOffset="-80"/>
+    <component base="WaistElement" xOffset="30"/>
+    <component base="MidStemTop" xOffset="799"/>
+    <component base="MidStemBot" xOffset="795"/>
+    <component base="RoundWaistElement0" xOffset="1254" yOffset="35"/>
+    <component base="RoundWaistElement90" xOffset="1899"/>
+    <component base="RoundWaistElement180" xOffset="1290" yOffset="-33"/>
+    <component base="RoundWaistElement270" xOffset="74"/>
+    <component base="RoundDualyNE"/>
+    <component base="RoundDualySE"/>
+    <component base="RoundDualySW" xOffset="1570"/>
+    <component base="RoundDualyNW" xOffset="1570"/>
+  </outline>
+</glyph>

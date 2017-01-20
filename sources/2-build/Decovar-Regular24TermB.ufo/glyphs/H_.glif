@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="1">
+  <advance width="1476"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="368" y="608" type="qcurve"/>
+      <point x="328" y="608"/>
+      <point x="328" y="608"/>
+      <point x="328" y="646" type="qcurve" smooth="yes"/>
+      <point x="328" y="684"/>
+      <point x="328" y="684"/>
+      <point x="368" y="684" type="qcurve"/>
+      <point x="486" y="684"/>
+      <point x="620" y="684"/>
+      <point x="738" y="684" type="qcurve" smooth="yes"/>
+      <point x="856" y="684"/>
+      <point x="990" y="684"/>
+      <point x="1108" y="684" type="qcurve" smooth="yes"/>
+      <point x="1148" y="684"/>
+      <point x="1148" y="684"/>
+      <point x="1148" y="646" type="qcurve" smooth="yes"/>
+      <point x="1148" y="608"/>
+      <point x="1148" y="608"/>
+      <point x="1108" y="608" type="qcurve"/>
+      <point x="990" y="608"/>
+      <point x="855" y="608"/>
+      <point x="738" y="608" type="qcurve"/>
+      <point x="619" y="608"/>
+      <point x="486" y="608"/>
+    </contour>
+    <contour>
+      <point x="368" y="684" type="qcurve"/>
+      <point x="328" y="684"/>
+      <point x="328" y="684"/>
+      <point x="328" y="722" type="qcurve" smooth="yes"/>
+      <point x="328" y="760"/>
+      <point x="328" y="760"/>
+      <point x="368" y="760" type="qcurve"/>
+      <point x="486" y="760"/>
+      <point x="620" y="760"/>
+      <point x="738" y="760" type="qcurve" smooth="yes"/>
+      <point x="856" y="760"/>
+      <point x="990" y="760"/>
+      <point x="1108" y="760" type="qcurve" smooth="yes"/>
+      <point x="1148" y="760"/>
+      <point x="1148" y="760"/>
+      <point x="1148" y="722" type="qcurve" smooth="yes"/>
+      <point x="1148" y="684"/>
+      <point x="1148" y="684"/>
+      <point x="1108" y="684" type="qcurve"/>
+      <point x="990" y="684"/>
+      <point x="855" y="684"/>
+      <point x="738" y="684" type="qcurve"/>
+      <point x="619" y="684"/>
+      <point x="486" y="684"/>
+    </contour>
+    <component base="CapStemPatternV3" xOffset="-82"/>
+    <component base="CapStemPatternV3" xOffset="902"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
