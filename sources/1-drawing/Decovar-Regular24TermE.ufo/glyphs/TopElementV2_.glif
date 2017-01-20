@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TopElementV2" format="1">
+  <advance width="656"/>
+  <outline>
+    <contour>
+      <point x="287" y="1206" type="qcurve" smooth="yes"/>
+      <point x="246" y="1206"/>
+      <point x="246" y="1206"/>
+      <point x="240" y="1242" type="qcurve"/>
+      <point x="230" y="1282"/>
+      <point x="230" y="1282"/>
+      <point x="276" y="1282" type="qcurve"/>
+      <point x="319" y="1282"/>
+      <point x="319" y="1282"/>
+      <point x="326" y="1218" type="qcurve"/>
+      <point x="327" y="1206"/>
+      <point x="327" y="1206"/>
+    </contour>
+    <contour>
+      <point x="276" y="1282" type="qcurve"/>
+      <point x="230" y="1282"/>
+      <point x="230" y="1282"/>
+      <point x="203" y="1320" type="qcurve"/>
+      <point x="153" y="1369"/>
+      <point x="153" y="1369"/>
+      <point x="243" y="1353" type="qcurve"/>
+      <point x="290" y="1343"/>
+      <point x="316" y="1319"/>
+      <point x="317" y="1299" type="qcurve"/>
+      <point x="319" y="1282"/>
+      <point x="319" y="1282"/>
+    </contour>
+    <contour>
+      <point x="369" y="1206" type="qcurve" smooth="yes"/>
+      <point x="328" y="1206"/>
+      <point x="328" y="1206"/>
+      <point x="329" y="1218" type="qcurve"/>
+      <point x="334" y="1282"/>
+      <point x="334" y="1282"/>
+      <point x="369" y="1282" type="qcurve" smooth="yes"/>
+      <point x="410" y="1282"/>
+      <point x="410" y="1282"/>
+      <point x="410" y="1244" type="qcurve"/>
+      <point x="410" y="1206"/>
+      <point x="410" y="1206"/>
+    </contour>
+    <contour>
+      <point x="369" y="1282" type="qcurve" smooth="yes"/>
+      <point x="334" y="1282"/>
+      <point x="334" y="1282"/>
+      <point x="335" y="1304" type="qcurve"/>
+      <point x="333" y="1337"/>
+      <point x="278" y="1377"/>
+      <point x="408" y="1358" type="qcurve"/>
+      <point x="410" y="1358"/>
+      <point x="410" y="1358"/>
+      <point x="410" y="1320" type="qcurve"/>
+      <point x="410" y="1282"/>
+      <point x="410" y="1282"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.502</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
