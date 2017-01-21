@@ -5,7 +5,7 @@
     <sources>
 
     
-        <source filename="Decovar-Regular24DB.ufo" name="master_Regular">
+        <source filename="Decovar-Regular24.ufo" name="master_Regular">
     
             <lib copy="1" />
             <groups copy="1" />
@@ -14,7 +14,7 @@
         <location>
             <dimension name="sklA" xvalue="0" />
             <dimension name="sklB" xvalue="0" />
-            <dimension name="sklC" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
             <dimension name="trmA" xvalue="0" />
             <dimension name="trmB" xvalue="0" />
             <dimension name="trmC" xvalue="0" />
@@ -22,16 +22,15 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
-            <dimension name="trmJ" xvalue="0" />
         </location>
     </source>
     
-        <source filename="Decovar-SkeletonA24DB.ufo" name="master_sklA">
+        <source filename="Decovar-Regular24SkelA.ufo" name="master_sklA">
     
         <location>
             <!-- PRIME --><dimension name="sklA" xvalue="1000" />
             <dimension name="sklB" xvalue="0" />
-            <dimension name="sklC" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
             <dimension name="trmA" xvalue="0" />
             <dimension name="trmB" xvalue="0" />
             <dimension name="trmC" xvalue="0" />
@@ -39,18 +38,19 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
-            <dimension name="trmJ" xvalue="0" />
+            
         </location>
     </source>
   
   
 
   
-        <source filename="Decovar-SkeletonB24DB.ufo" name="master_sklB">
+        <source filename="Decovar-Regular24SkelD2.ufo" name="master_sklD2">
     
         <location>
             <dimension name="sklA" xvalue="0" />
-            <!-- PRIME --><dimension name="sklB" xvalue="1000" />
+            <dimension name="sklB" xvalue="0" />
+            <!-- PRIME --><dimension name="sklD" xvalue="500" />
             <dimension name="sklC" xvalue="0" />
             <dimension name="trmA" xvalue="0" />
             <dimension name="trmB" xvalue="0" />
@@ -59,18 +59,18 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
-            <dimension name="trmJ" xvalue="0" />
+            
         </location>
     </source>
   
   
     
-        <source filename="Decovar-SkeletonC24DB.ufo" name="master_sklC">
+        <source filename="Decovar-Regular24SkelD4.ufo" name="master_sklD4">
     
         <location>
             <dimension name="sklA" xvalue="0" />
             <dimension name="sklB" xvalue="0" />
-            <!-- PRIME --><dimension name="sklC" xvalue="1000" />
+            <!-- PRIME --><dimension name="sklD" xvalue="1000" />
             <dimension name="trmA" xvalue="0" />
             <dimension name="trmB" xvalue="0" />
             <dimension name="trmC" xvalue="0" />
@@ -78,19 +78,37 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
-            <dimension name="trmJ" xvalue="0" />
+            
         </location>
     </source>
   
+  
+    
+        <source filename="Decovar-Regular24SkelB2.ufo" name="master_sklB2">
+    
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <!-- PRIME --><dimension name="sklB" xvalue="10000" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            
+        </location>
+    </source>
   
 
     
-        <source filename="Decovar-TerminalA24DB.ufo" name="master_trmA">
+        <source filename="Decovar-Regular24TermA.ufo" name="master_trmA">
     
         <location>
             <dimension name="sklA" xvalue="0" />
             <dimension name="sklB" xvalue="0" />
-            <dimension name="sklC" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
             <!-- PRIME --><dimension name="trmA" xvalue="1000" />
             <dimension name="trmB" xvalue="0" />
             <dimension name="trmC" xvalue="0" />
@@ -98,18 +116,18 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
-            <dimension name="trmJ" xvalue="0" />
+            
         </location>
     </source>
     
 
     
-        <source filename="Decovar-TerminalB24DB.ufo" name="master_trmB">
+        <source filename="Decovar-Regular24TermB.ufo" name="master_trmB">
     
         <location>
             <dimension name="sklA" xvalue="0" />
             <dimension name="sklB" xvalue="0" />
-            <dimension name="sklC" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
             <dimension name="trmA" xvalue="0" />
             <!-- PRIME --><dimension name="trmB" xvalue="1000" />
             <dimension name="trmC" xvalue="0" />
@@ -117,19 +135,19 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
-            <dimension name="trmJ" xvalue="0" />
+            
         </location>
     </source>
     
     
 
     
-        <source filename="Decovar-TerminalC24DB.ufo" name="master_trmC">
+        <source filename="Decovar-Regular24TermC.ufo" name="master_trmC">
     
         <location>
             <dimension name="sklA" xvalue="0" />
             <dimension name="sklB" xvalue="0" />
-            <dimension name="sklC" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
             <dimension name="trmA" xvalue="0" />
             <dimension name="trmB" xvalue="0" />
             <!-- PRIME --><dimension name="trmC" xvalue="1000" />
@@ -137,18 +155,18 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
-            <dimension name="trmJ" xvalue="0" />
+            
         </location>
     </source>
     
 
     
-        <source filename="Decovar-TerminalD24DB.ufo" name="master_trmD">
+        <source filename="Decovar-Regular24TermD.ufo" name="master_trmD">
     
         <location>
             <dimension name="sklA" xvalue="0" />
             <dimension name="sklB" xvalue="0" />
-            <dimension name="sklC" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
             <dimension name="trmA" xvalue="0" />
             <dimension name="trmB" xvalue="0" />
             <dimension name="trmC" xvalue="0" />
@@ -156,18 +174,18 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
-            <dimension name="trmJ" xvalue="0" />
+            
         </location>
     </source>
     
 
     
-        <source filename="Decovar-TerminalE24DB.ufo" name="master_trmE">
+        <source filename="Decovar-Regular24TermE.ufo" name="master_trmE">
     
         <location>
             <dimension name="sklA" xvalue="0" />
             <dimension name="sklB" xvalue="0" />
-            <dimension name="sklC" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
             <dimension name="trmA" xvalue="0" />
             <dimension name="trmB" xvalue="0" />
             <dimension name="trmC" xvalue="0" />
@@ -175,18 +193,18 @@
             <!-- PRIME --><dimension name="trmE" xvalue="1000" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
-            <dimension name="trmJ" xvalue="0" />
+            
         </location>
     </source>
     
 
     
-        <source filename="Decovar-TerminalF24DB.ufo" name="master_trmF">
+        <source filename="Decovar-Regular24TermF.ufo" name="master_trmF">
     
         <location>
             <dimension name="sklA" xvalue="0" />
             <dimension name="sklB" xvalue="0" />
-            <dimension name="sklC" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
             <dimension name="trmA" xvalue="0" />
             <dimension name="trmB" xvalue="0" />
             <dimension name="trmC" xvalue="0" />
@@ -194,19 +212,19 @@
             <dimension name="trmE" xvalue="0" />
             <!-- PRIME --><dimension name="trmF" xvalue="1000" />
             <dimension name="trmG" xvalue="0" />
-            <dimension name="trmJ" xvalue="0" />
+            
         </location>
     </source>
     
     
 
     
-        <source filename="Decovar-TerminalG24DB.ufo" name="master_trmG">
+        <source filename="Decovar-Regular24TermG.ufo" name="master_trmG">
     
         <location>
             <dimension name="sklA" xvalue="0" />
             <dimension name="sklB" xvalue="0" />
-            <dimension name="sklC" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
             <dimension name="trmA" xvalue="0" />
             <dimension name="trmB" xvalue="0" />
             <dimension name="trmC" xvalue="0" />
@@ -214,29 +232,11 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <!-- PRIME --><dimension name="trmG" xvalue="1000" />
-            <dimension name="trmJ" xvalue="0" />
+            
         </location>
     </source>
     
-    
-        <source filename="Decovar-TerminalJ24DB.ufo" name="master_trmJ">
-    
-        <location>
-            <dimension name="sklA" xvalue="0" />
-            <dimension name="sklB" xvalue="0" />
-            <dimension name="sklC" xvalue="0" />
-            <dimension name="trmA" xvalue="0" />
-            <dimension name="trmB" xvalue="0" />
-            <dimension name="trmC" xvalue="0" />
-            <dimension name="trmD" xvalue="0" />
-            <dimension name="trmE" xvalue="0" />
-            <dimension name="trmF" xvalue="0" />
-            <dimension name="trmG" xvalue="0" />
-            <!-- PRIME --><dimension name="trmJ" xvalue="1000" />
-        </location>
-    </source>
 
-  
   
   
 </sources>
