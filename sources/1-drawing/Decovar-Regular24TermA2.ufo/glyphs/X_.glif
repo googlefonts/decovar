@@ -268,9 +268,9 @@
       <point x="627" y="644"/>
     </contour>
     <component base="CWTerm" xScale="0.7986355100472928" xyScale="-0.6018150231520483" yxScale="0.6018150231520483" yScale="0.7986355100472928" xOffset="30" yOffset="397"/>
+    <component base="CCWTerm" xScale="-0.7986355100472928" xyScale="-0.6018150231520483" yxScale="0.6018150231520483" yScale="-0.7986355100472928" xOffset="468" yOffset="1279"/>
     <component base="CCWTerm" xScale="0.7986355100472928" xyScale="0.6018150231520483" yxScale="-0.6018150231520483" yScale="0.7986355100472928" xOffset="726" yOffset="92"/>
     <component base="CWTerm" xScale="-0.7986355100472928" xyScale="0.6018150231520483" yxScale="-0.6018150231520483" yScale="-0.7986355100472928" xOffset="1097" yOffset="971"/>
-    <component base="CCWTerm" xScale="-0.7986355100472928" xyScale="-0.6018150231520483" yxScale="0.6018150231520483" yScale="-0.7986355100472928" xOffset="468" yOffset="1279"/>
   </outline>
   <lib>
     <dict>

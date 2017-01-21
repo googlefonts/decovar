@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="FutureParts" format="1">
+  <advance width="1401"/>
+  <outline>
+    <component base="CapCrossbarElement" xOffset="-3"/>
+    <component base="RightCrown" xOffset="1084" yOffset="-83"/>
+    <component base="TopCrown" xOffset="384"/>
+    <component base="BaseCrown" xOffset="384"/>
+  </outline>
+</glyph>

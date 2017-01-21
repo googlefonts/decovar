@@ -31,20 +31,6 @@
       <point x="326" y="1231"/>
     </contour>
     <contour>
-      <point x="339" y="1239" type="qcurve"/>
-      <point x="330" y="1231"/>
-      <point x="330" y="1231"/>
-      <point x="330" y="1245" type="qcurve"/>
-      <point x="330" y="1278"/>
-      <point x="348" y="1313"/>
-      <point x="390" y="1345" type="qcurve"/>
-      <point x="503" y="1369"/>
-      <point x="503" y="1369"/>
-      <point x="453" y="1320" type="qcurve"/>
-      <point x="426" y="1282"/>
-      <point x="426" y="1282"/>
-    </contour>
-    <contour>
       <point x="368" y="1206" type="qcurve" smooth="yes"/>
       <point x="328" y="1206"/>
       <point x="328" y="1206"/>
@@ -57,6 +43,20 @@
       <point x="415" y="1242" type="qcurve"/>
       <point x="409" y="1206"/>
       <point x="409" y="1206"/>
+    </contour>
+    <contour>
+      <point x="339" y="1239" type="qcurve"/>
+      <point x="330" y="1231"/>
+      <point x="330" y="1231"/>
+      <point x="330" y="1245" type="qcurve"/>
+      <point x="330" y="1278"/>
+      <point x="348" y="1313"/>
+      <point x="390" y="1345" type="qcurve"/>
+      <point x="503" y="1369"/>
+      <point x="503" y="1369"/>
+      <point x="453" y="1320" type="qcurve"/>
+      <point x="426" y="1282"/>
+      <point x="426" y="1282"/>
     </contour>
   </outline>
   <lib>

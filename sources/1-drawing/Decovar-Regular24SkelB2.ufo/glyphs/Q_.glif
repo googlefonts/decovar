@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="1">
+  <advance width="1640"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="679" y="-222" type="qcurve"/>
+      <point x="679" y="-180"/>
+      <point x="679" y="-180"/>
+      <point x="703" y="-180" type="qcurve"/>
+      <point x="729" y="-180"/>
+      <point x="738" y="-153"/>
+      <point x="738" y="-134" type="qcurve" smooth="yes"/>
+      <point x="738" y="-113"/>
+      <point x="738" y="-96"/>
+      <point x="738" y="-65" type="qcurve"/>
+      <point x="738" y="-25"/>
+      <point x="738" y="-25"/>
+      <point x="779" y="-28" type="qcurve"/>
+      <point x="820" y="-29"/>
+      <point x="820" y="-29"/>
+      <point x="820" y="-65" type="qcurve"/>
+      <point x="820" y="-97"/>
+      <point x="820" y="-122"/>
+      <point x="820" y="-143" type="qcurve" smooth="yes"/>
+      <point x="820" y="-191"/>
+      <point x="764" y="-262"/>
+      <point x="703" y="-262" type="qcurve"/>
+      <point x="679" y="-262"/>
+      <point x="679" y="-262"/>
+    </contour>
+    <contour>
+      <point x="942" y="-236" type="qcurve"/>
+      <point x="913" y="-266"/>
+      <point x="913" y="-266"/>
+      <point x="885" y="-238" type="qcurve"/>
+      <point x="866" y="-221"/>
+      <point x="820" y="-161"/>
+      <point x="820" y="-116" type="qcurve" smooth="yes"/>
+      <point x="820" y="-95"/>
+      <point x="820" y="-97"/>
+      <point x="820" y="-65" type="qcurve"/>
+      <point x="820" y="-29"/>
+      <point x="820" y="-29"/>
+      <point x="861" y="-28" type="qcurve"/>
+      <point x="902" y="-25"/>
+      <point x="902" y="-25"/>
+      <point x="902" y="-65" type="qcurve"/>
+      <point x="902" y="-97"/>
+      <point x="902" y="-93"/>
+      <point x="902" y="-108" type="qcurve"/>
+      <point x="902" y="-133"/>
+      <point x="914" y="-151"/>
+      <point x="943" y="-180" type="qcurve"/>
+      <point x="971" y="-208"/>
+      <point x="971" y="-208"/>
+    </contour>
+    <component base="O"/>
+    <component base="BaseTerminal" xOffset="492" yOffset="-414"/>
+  </outline>
+</glyph>
