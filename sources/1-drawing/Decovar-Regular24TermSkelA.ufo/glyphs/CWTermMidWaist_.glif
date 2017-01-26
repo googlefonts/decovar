@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CWTermMidWaist" format="1">
+  <advance width="500"/>
+  <outline>
+    <component base="CWTerm" xOffset="-1"/>
+    <component base="CWWaist" xOffset="-1"/>
+    <component base="CWTopMid" xOffset="-353"/>
+  </outline>
+</glyph>
