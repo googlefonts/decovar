@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="L" format="1">
+  <advance width="1322.0"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="883" y="0" type="qcurve"/>
+      <point x="820" y="0"/>
+      <point x="820" y="0"/>
+      <point x="820" y="38" type="qcurve"/>
+      <point x="820" y="76"/>
+      <point x="820" y="76"/>
+      <point x="883" y="76" type="qcurve"/>
+      <point x="950" y="76"/>
+      <point x="1012" y="76"/>
+      <point x="1076" y="76" type="qcurve"/>
+      <point x="1148" y="76"/>
+      <point x="1148" y="76"/>
+      <point x="1148" y="38" type="qcurve"/>
+      <point x="1148" y="0"/>
+      <point x="1148" y="0"/>
+      <point x="1076" y="0" type="qcurve"/>
+      <point x="1012" y="0"/>
+      <point x="950" y="0"/>
+    </contour>
+    <contour>
+      <point x="883" y="76" type="qcurve"/>
+      <point x="820" y="76"/>
+      <point x="820" y="76"/>
+      <point x="820" y="114" type="qcurve"/>
+      <point x="820" y="152"/>
+      <point x="820" y="152"/>
+      <point x="883" y="152" type="qcurve"/>
+      <point x="950" y="152"/>
+      <point x="1012" y="152"/>
+      <point x="1076" y="152" type="qcurve"/>
+      <point x="1148" y="152"/>
+      <point x="1148" y="152"/>
+      <point x="1148" y="114" type="qcurve"/>
+      <point x="1148" y="76"/>
+      <point x="1148" y="76"/>
+      <point x="1076" y="76" type="qcurve"/>
+      <point x="1012" y="76"/>
+      <point x="950" y="76"/>
+    </contour>
+    <component base="BaseElementV2" xOffset="-82"/>
+    <component base="TopTerminalV3" xOffset="-82"/>
+    <component base="MidElement" xOffset="-82"/>
+    <component base="WaistElement" xOffset="-82"/>
+    <component base="RightBotTerm" xOffset="902"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
