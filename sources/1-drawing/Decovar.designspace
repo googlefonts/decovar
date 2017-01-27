@@ -22,6 +22,11 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
+            
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            
         </location>
     </source>
     
@@ -38,6 +43,10 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
+            
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
             
         </location>
     </source>
@@ -60,6 +69,10 @@
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
             
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            
         </location>
     </source>
   
@@ -78,6 +91,10 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
+            
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
             
         </location>
     </source>
@@ -98,6 +115,10 @@
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
             
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            
         </location>
     </source>
   
@@ -117,6 +138,10 @@
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
             
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            
         </location>
     </source>
     
@@ -135,6 +160,10 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
+            
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
             
         </location>
     </source>
@@ -156,6 +185,10 @@
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
             
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            
         </location>
     </source>
     
@@ -174,6 +207,10 @@
             <dimension name="trmE" xvalue="0" />
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
+            
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
             
         </location>
     </source>
@@ -194,6 +231,10 @@
             <dimension name="trmF" xvalue="0" />
             <dimension name="trmG" xvalue="0" />
             
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            
         </location>
     </source>
     
@@ -212,6 +253,10 @@
             <dimension name="trmE" xvalue="0" />
             <!-- PRIME --><dimension name="trmF" xvalue="1000" />
             <dimension name="trmG" xvalue="0" />
+            
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
             
         </location>
     </source>
@@ -233,10 +278,73 @@
             <dimension name="trmF" xvalue="0" />
             <!-- PRIME --><dimension name="trmG" xvalue="1000" />
             
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            
         </location>
     </source>
     
+    
+    <source filename="Decovar-Regular24TermSkelA.ufo" name="master_trmK">
+    
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <!-- PRIME --><dimension name="trmK" xvalue="1000" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            
+        </location>
+    </source>
 
+    <source filename="Decovar-Regular24TermSkelB.ufo" name="master_trmL">
+    
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <!-- PRIME --><dimension name="trmL" xvalue="1000" />
+            <dimension name="wmx2" xvalue="0" />
+            
+        </location>
+    </source>    
+
+     <source filename="Decovar-Regular24WeightMax2.ufo" name="master_wmx2">
+    
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <!-- PRIME --><dimension name="wmx2" xvalue="1000" />
+            
+        </location>
+    </source>    
   
   
 </sources>
