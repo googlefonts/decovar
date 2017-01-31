@@ -1,3 +1,7 @@
+# for all open fonts
+# decompose any components that have complex transformations
+# anything besides translation, like rotating or scaling
+
 for f in AllFonts():
     #defaults
     xyd = 1

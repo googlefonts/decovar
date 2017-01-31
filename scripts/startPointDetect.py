@@ -1,3 +1,5 @@
+# in CurrentGlyph(), set start points to bottom-most, left-most
+
 
 def getLeftMostBottomMost(c):
     a = []

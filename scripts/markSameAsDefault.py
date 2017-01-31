@@ -1,9 +1,23 @@
+"""
+A script that compares glyphs to the default style, and marks them if the point digests are identical. Uses robofab.
+"""
+
+import os
 from robofab.pens.digestPen import DigestPointPen
 
+base = os.path.split(os.path.split(__file__)[0])[0]
+masterPath = os.path.join(base, 'sources/1-drawing')
 
-src = OpenFont(u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-Regular24DB.ufo", showUI=False)
+paths = []
 
-for path in [u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-SkeletonA24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-SkeletonB24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-SkeletonC24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalA24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalB24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalC24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalD24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalE24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalF24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalG24DB.ufo", u"/Users/david/Desktop/workspace/FB/Decovar Axis/Decovar Axis1.0_sub/Decovar-TerminalJ24DB.ufo"]:
+for filename in os.listdir(masterPath):
+    if filename.endswith('.ufo'):
+        paths.append(os.path.join(masterPath, filename))
+
+srcPath = os.path.join(masterPath, 'Decovar-Regular24.ufo')
+src = OpenFont(srcPath, showUI=False)
+
+for path in paths:
     f = OpenFont(path, showUI=False)
     for g in f:
         if src.has_key(g.name):
