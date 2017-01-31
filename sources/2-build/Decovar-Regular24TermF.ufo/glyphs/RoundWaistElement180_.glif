@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="RoundWaistElement180" format="1">
+  <advance width="164"/>
+  <outline>
+    <contour>
+      <point x="4" y="-25" type="qcurve"/>
+      <point x="0" y="-25"/>
+      <point x="0" y="-25"/>
+      <point x="0" y="-20" type="qcurve"/>
+      <point x="0" y="-17"/>
+      <point x="0" y="-17"/>
+      <point x="4" y="-17" type="qcurve"/>
+      <point x="8" y="-17"/>
+      <point x="8" y="-17"/>
+      <point x="8" y="-21" type="qcurve"/>
+      <point x="8" y="-25"/>
+      <point x="8" y="-25"/>
+    </contour>
+    <contour>
+      <point x="4" y="116" type="qcurve"/>
+      <point x="0" y="116"/>
+      <point x="0" y="116"/>
+      <point x="0" y="120" type="qcurve" smooth="yes"/>
+      <point x="0" y="124"/>
+      <point x="0" y="124"/>
+      <point x="4" y="124" type="qcurve"/>
+      <point x="8" y="124"/>
+      <point x="8" y="124"/>
+      <point x="8" y="120" type="qcurve"/>
+      <point x="8" y="116"/>
+      <point x="8" y="116"/>
+    </contour>
+    <contour>
+      <point x="160" y="-25" type="qcurve"/>
+      <point x="156" y="-25"/>
+      <point x="156" y="-25"/>
+      <point x="156" y="-22" type="qcurve"/>
+      <point x="156" y="-17"/>
+      <point x="156" y="-17"/>
+      <point x="160" y="-17" type="qcurve"/>
+      <point x="164" y="-17"/>
+      <point x="164" y="-17"/>
+      <point x="164" y="-21" type="qcurve"/>
+      <point x="164" y="-25"/>
+      <point x="164" y="-25"/>
+    </contour>
+    <contour>
+      <point x="160" y="116" type="qcurve"/>
+      <point x="156" y="116"/>
+      <point x="156" y="116"/>
+      <point x="156" y="120" type="qcurve"/>
+      <point x="156" y="124"/>
+      <point x="156" y="124"/>
+      <point x="160" y="124" type="qcurve"/>
+      <point x="164" y="124"/>
+      <point x="164" y="124"/>
+      <point x="164" y="120" type="qcurve" smooth="yes"/>
+      <point x="164" y="116"/>
+      <point x="164" y="116"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.502</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

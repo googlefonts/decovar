@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="1">
+  <advance width="1040.0"/>
+  <outline>
+    <contour>
+      <point x="61.0" y="603.0"/>
+      <point x="61.0" y="758.0"/>
+      <point x="61.0" y="758.0" type="qcurve"/>
+      <point x="61.0" y="758.0"/>
+      <point x="980.0" y="758.0"/>
+      <point x="980.0" y="758.0" type="qcurve"/>
+      <point x="980.0" y="758.0"/>
+      <point x="980.0" y="603.0"/>
+      <point x="980.0" y="603.0" type="qcurve"/>
+      <point x="980.0" y="603.0"/>
+      <point x="61.0" y="603.0"/>
+      <point x="61.0" y="603.0" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

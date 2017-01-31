@@ -2,7 +2,7 @@
 
 import os
 base = os.path.split(os.path.split(__file__)[0])[0]
-masterPath = os.path.join(base, 'sources/1-drawing')
+masterPath = os.path.join(base, 'sources/2-build')
 
 for filename in os.listdir(masterPath):
     if filename.endswith('.ufo'):
