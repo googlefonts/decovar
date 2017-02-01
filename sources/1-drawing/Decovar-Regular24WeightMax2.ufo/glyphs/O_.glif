@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="O" format="1">
-  <advance width="1640"/>
+  <advance width="1665"/>
   <unicode hex="004F"/>
   <outline>
     <component base="RoundWaistElement270" xOffset="82"/>
-    <component base="RoundDualyNW" xOffset="85"/>
-    <component base="RoundWaistElement0" xOffset="738"/>
-    <component base="RoundDualyNE" xOffset="902"/>
-    <component base="RoundWaistElement90" xOffset="1385"/>
-    <component base="RoundDualySE" xOffset="902"/>
-    <component base="RoundWaistElement180" xOffset="738"/>
-    <component base="RoundDualySW" xOffset="85"/>
+    <component base="RoundDualyNW" xOffset="83"/>
+    <component base="RoundWaistElement0" xOffset="763"/>
+    <component base="RoundDualyNE" xOffset="927"/>
+    <component base="RoundWaistElement90" xOffset="1410"/>
+    <component base="RoundDualySE" xOffset="927"/>
+    <component base="RoundWaistElement180" xOffset="763"/>
+    <component base="RoundDualySW" xOffset="83"/>
   </outline>
   <lib>
     <dict>

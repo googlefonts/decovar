@@ -272,6 +272,32 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
+                <integer>396</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>TopElementV3</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>1252</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>TopElementV3</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
                 <real>396.0</real>
                 <integer>0</integer>
               </array>
@@ -285,85 +311,7 @@
                 <integer>0</integer>
                 <integer>0</integer>
                 <integer>1</integer>
-                <real>1252.0</real>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>TopElementV3</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <real>396.0</real>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>TopElementV3</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <real>1253.0</real>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>WaistElement</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <real>396.0</real>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>WaistElement</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <real>1253.0</real>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>MidStemTop</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <real>396.0</real>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>MidStemTop</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <real>1253.0</real>
+                <integer>1253</integer>
                 <integer>0</integer>
               </array>
             </dict>
@@ -390,71 +338,6 @@
                 <integer>0</integer>
                 <integer>1</integer>
                 <real>1253.0</real>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>WaistElement</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <real>396.0</real>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>WaistElement</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <real>1253.0</real>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>MidStemTop</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <real>396.0</real>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>MidStemTop</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <real>1253.0</real>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>RoundWaistElement180</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <real>1071.0</real>
                 <integer>0</integer>
               </array>
             </dict>
