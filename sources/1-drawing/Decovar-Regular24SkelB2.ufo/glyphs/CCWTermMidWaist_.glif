@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CCWTermMidWaist" format="1">
-  <advance width="508"/>
-  <outline>
-    <component base="CCWTerm"/>
-    <component base="CCWTopMid" xOffset="-352"/>
-    <component base="CCWWaist"/>
-  </outline>
-</glyph>

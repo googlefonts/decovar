@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CCWTermMid" format="1">
-  <advance width="508"/>
-  <outline>
-    <component base="CCWTopMid" xOffset="-352"/>
-    <component base="CCWTerm"/>
-  </outline>
-</glyph>

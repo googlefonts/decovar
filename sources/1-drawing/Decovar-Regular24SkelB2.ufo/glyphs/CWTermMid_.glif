@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="CWTermMid" format="1">
-  <advance width="500"/>
-  <outline>
-    <component base="CWTerm"/>
-    <component base="CWTopMid" xOffset="-352"/>
-  </outline>
-</glyph>
