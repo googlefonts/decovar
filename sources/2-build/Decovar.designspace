@@ -357,7 +357,7 @@
     </source>    
 
 <!-- WeightMax2 -->
-     <source filename="Decovar-Regular24.ufo" name="master_wmx2">
+     <source filename="Decovar-Regular24WeightMax2.ufo" name="master_wmx2">
     
         <location>
             <dimension name="sklA" xvalue="0" />
