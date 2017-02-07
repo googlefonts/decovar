@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
+
+<STAT>
+    <Version value="0x00010000"/>
+    <DesignAxisRecordSize value="15"/>
+
+    <DesignAxisRecord>
+    
+      <Axis index="0">
+        <AxisTag value="bldA"/>
+        <AxisNameID value="256"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="1">
+        <AxisTag value="bldB"/>
+        <AxisNameID value="257"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="2">
+        <AxisTag value="sklA"/>
+        <AxisNameID value="258"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="3">
+        <AxisTag value="sklB"/>
+        <AxisNameID value="259"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="4">
+        <AxisTag value="sklD"/>
+        <AxisNameID value="260"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="5">
+        <AxisTag value="trmA"/>
+        <AxisNameID value="261"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="6">
+        <AxisTag value="trmB"/>
+        <AxisNameID value="262"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="7">
+        <AxisTag value="trmC"/>
+        <AxisNameID value="263"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="8">
+        <AxisTag value="trmD"/>
+        <AxisNameID value="264"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="9">
+        <AxisTag value="trmE"/>
+        <AxisNameID value="265"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="10">
+        <AxisTag value="trmF"/>
+        <AxisNameID value="266"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="11">
+        <AxisTag value="trmG"/>
+        <AxisNameID value="267"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="12">
+        <AxisTag value="trmK"/>
+        <AxisNameID value="268"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="13">
+        <AxisTag value="trmL"/>
+        <AxisNameID value="269"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+      <Axis index="14">
+        <AxisTag value="wmx2"/>
+        <AxisNameID value="270"/>
+        <AxisOrdering value="0"/>
+      </Axis>
+
+      
+    </DesignAxisRecord>
+    <AxisValueArray>
+    </AxisValueArray>
+  </STAT>
+</ttFont>
+
