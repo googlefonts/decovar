@@ -100,7 +100,7 @@ transitions = [
     
     ]
 
-frames = 30
+frames = 10
 
 for transition in transitions:
     locationMin, locationMax, colorMin, colorMax = transition
@@ -116,26 +116,21 @@ for transition in transitions:
         print thisLocation
         vfi = VFInstance(srcPath, thisLocation)
 
-        try:
-            thisColorR = norm(progress, colorMin[0], colorMax[0])
-        except:
-            thisColorR = 0
-        try:
-            thisColorG = norm(progress, colorMin[1], colorMax[1])
-        except:
-            thisColorG = 0
-        try:
-            thisColorB = norm(progress, colorMin[2], colorMax[2])
-        except:
-            thisColorB = 0
+        thisColorR = norm(progress, colorMin[0], colorMax[0])
+        thisColorG = norm(progress, colorMin[1], colorMax[1])
+        thisColorB = norm(progress, colorMin[2], colorMax[2])
+
+        letterColorR = norm(progress, colorMax[0], colorMin[0])-.3
+        letterColorG = norm(progress, colorMax[1], colorMin[1])-.3
+        letterColorB = norm(progress, colorMax[2], colorMin[2])-.3
      
         newPage(1198, 1000)
-        frameDuration(.1)
+        frameDuration(.2)
     
         fill(thisColorR, thisColorG, thisColorB)
         rect(0, 0, width(), height())
 
-        fill(1)
+        fill(letterColorR, letterColorG, letterColorB)
 
         installFont(vfi.getPath())
         fontSize(300)
@@ -145,7 +140,7 @@ for transition in transitions:
         uninstallFont(vfi.getPath())
         
         vfi.remove()
-
+        
 saveImage(
     [
     os.path.join(base, 'documentation/sample.mov'), 
