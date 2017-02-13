@@ -429,7 +429,418 @@
   
   
 </sources>
-<instances />
+<instances>
+
+    <instance familyname="Decovar" name="instance_Regular" stylemapstylename="regular" stylename="Regular">
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+
+    <instance familyname="Decovar" name="instance_Open" stylemapstylename="regular" stylename="Open">
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="1000" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    <instance familyname="Decovar" name="instance_Worm" stylemapstylename="regular" stylename="Worm">
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="1000" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    <instance familyname="Decovar" name="instance_Checkered" stylemapstylename="regular" stylename="Checkered">
+        <location>
+            <dimension name="sklA" xvalue="1000" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    <instance familyname="Decovar" name="instance_CheckeredReverse" stylemapstylename="regular" stylename="Checkered Reverse">
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="1000" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    <instance familyname="Decovar" name="instance_Striped" stylemapstylename="regular" stylename="Striped">
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="500" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+
+    
+    <instance familyname="Decovar" name="instance_Rounded" stylemapstylename="regular" stylename="Rounded">
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="1000" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    <instance familyname="Decovar" name="instance_Flared" stylemapstylename="regular" stylename="Flared">
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="1000" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    
+    <instance familyname="Decovar" name="instance_FlaredCheckered" stylemapstylename="regular" stylename="Flared Open">
+        <location>
+            <dimension name="sklA" xvalue="1000" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="1000" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+
+    
+
+
+    <instance familyname="Decovar" name="instance_Chelt" stylemapstylename="regular" stylename="Chelt">
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="1000" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    <instance familyname="Decovar" name="instance_Sheared" stylemapstylename="regular" stylename="Sheared">
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="1000" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+
+    <instance familyname="Decovar" name="instance_Bifurcated" stylemapstylename="regular" stylename="Bifurcated">
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="1000" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    <instance familyname="Decovar" name="instance_Inline" stylemapstylename="regular" stylename="Inline">
+        <location>
+            <dimension name="sklA" xvalue="500" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="500" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    <instance familyname="Decovar" name="instance_Slab" stylemapstylename="regular" stylename="Slab">
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="1000" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    
+    <instance familyname="Decovar" name="instance_SlabInline" stylemapstylename="regular" stylename="Slab Inline">
+        <location>
+            <dimension name="sklA" xvalue="500" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="500" />
+            <dimension name="trmG" xvalue="1000" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="0" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    
+    <instance familyname="Decovar" name="instance_Contrast" stylemapstylename="regular" stylename="Contrast">
+        <location>
+            <dimension name="sklA" xvalue="0" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="0" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="1000" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    <instance familyname="Decovar" name="instance_Fancy" stylemapstylename="regular" stylename="Fancy">
+        <location>
+            <dimension name="sklA" xvalue="1000" />
+            <dimension name="sklB" xvalue="0" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="0" />
+            <dimension name="trmB" xvalue="1000" />
+            <dimension name="trmC" xvalue="0" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="0" />
+            <dimension name="trmF" xvalue="0" />
+            <dimension name="trmG" xvalue="0" />
+            <dimension name="trmK" xvalue="0" />
+            <dimension name="trmL" xvalue="0" />
+            <dimension name="wmx2" xvalue="1000" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="0" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+    <instance familyname="Decovar" name="instance_Mayhem" stylemapstylename="regular" stylename="Mayhem">
+        <location>
+            <dimension name="sklA" xvalue="1000" />
+            <dimension name="sklB" xvalue="1000" />
+            <dimension name="sklD" xvalue="0" />
+            <dimension name="trmA" xvalue="500" />
+            <dimension name="trmB" xvalue="500" />
+            <dimension name="trmC" xvalue="750" />
+            <dimension name="trmD" xvalue="0" />
+            <dimension name="trmE" xvalue="500" />
+            <dimension name="trmF" xvalue="250" />
+            <dimension name="trmG" xvalue="750" />
+            <dimension name="trmK" xvalue="250" />
+            <dimension name="trmL" xvalue="250" />
+            <dimension name="wmx2" xvalue="750" />
+            <dimension name="bldA" xvalue="0" />
+            <dimension name="bldB" xvalue="1000" />
+        </location>
+        <kerning />
+        <info />
+    </instance>
+    
+
+
+
+
+
+</instances>
 </designspace>
 
 
