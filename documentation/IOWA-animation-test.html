@@ -1,0 +1,106 @@
+<html>
+
+
+<head>
+
+<style>
+@font-face {
+    src: url(../sources/3-animation-test/Decovar-VF.ttf);
+    font-family: 'DecovarWeb';
+}
+
+h1 {
+    font-family: 'DecovarWeb';
+    font-size: 300px;
+}
+
+
+@keyframes DRWI {
+ from {
+  font-variation-settings: "DRWI" 1000;
+ }
+ to {
+  font-variation-settings: "DRWI" 0;
+ }
+}
+
+@keyframes DRWO {
+ from {
+  font-variation-settings: "DRWO" 1000;
+ }
+ to {
+  font-variation-settings: "DRWO" 0;
+ }
+}
+
+
+@keyframes DRWW {
+ from {
+  font-variation-settings: "DRWW" 1000;
+ }
+ to {
+  font-variation-settings: "DRWW" 0;
+ }
+}
+
+@keyframes DRWA {
+ from {
+  font-variation-settings: "DRWA" 1000;
+ }
+ to {
+  font-variation-settings: "DRWA" 0;
+ }
+}
+
+#animate .DRWI {
+    animation-name: DRWI;
+    }
+    
+ #animate .DRWO {
+ animation-name: DRWO;
+ } 
+#animate .DRWW {
+animation-name: DRWW;
+} 
+
+#animate .DRWA {
+animation-name: DRWA;
+}
+
+
+#animate .DRWI, #animate .DRWO, #animate .DRWW, #animate .DRWA {
+    /*animation-direction: alternate; */
+    animation-duration: 2s; 
+    /*animation-iteration-count: 15; */
+    /*animation-timing-function: ease-in-out;*/
+}
+
+</style>
+
+
+<script   src="https://code.jquery.com/jquery-1.12.4.min.js"   integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="   crossorigin="anonymous"></script>
+
+</head>
+
+<body>
+
+
+<script>
+var millisecs = 10;
+setInterval(function() {
+    var $badge = $('#badge');
+    $badge.text(parseInt($badge.text())+1);
+    $('#animate').css('font-variable-settings', '$badge.text())
+}, millisecs);
+
+
+
+</script>
+
+<h1 id="animate"><span class="DRWI">I</span><span class="DRWO">O</span><span class="DRWW">W</span><span class="DRWA">A</span></h1>
+
+
+
+</body>
+
+</html>

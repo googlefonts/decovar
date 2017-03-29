@@ -32,6 +32,10 @@
             
             
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
     
@@ -56,6 +60,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
   
@@ -84,6 +92,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
   
@@ -110,6 +122,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
   
@@ -136,6 +152,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
   
@@ -162,6 +182,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
     
@@ -188,6 +212,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
     
@@ -215,6 +243,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
     
@@ -241,6 +273,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
     
@@ -267,6 +303,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
     
@@ -293,6 +333,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
     
@@ -320,6 +364,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
     
@@ -344,6 +392,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>
 
@@ -367,6 +419,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>    
 
@@ -391,6 +447,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>    
     
@@ -416,6 +476,10 @@
 			<dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
             
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>    
 
@@ -439,6 +503,10 @@
 			<!-- PRIME --><dimension name="bldB" xvalue="1000" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
     </source>    
 
@@ -472,7 +540,11 @@
     			<dimension name="DRAW" xvalue="1000" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -497,7 +569,11 @@
     			<dimension name="DRAW" xvalue="874" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -522,7 +598,11 @@
     			<dimension name="DRAW" xvalue="811" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -547,7 +627,11 @@
     			<dimension name="DRAW" xvalue="748" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -572,7 +656,11 @@
     			<dimension name="DRAW" xvalue="685" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -597,7 +685,11 @@
     			<dimension name="DRAW" xvalue="622" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -622,7 +714,11 @@
     			<dimension name="DRAW" xvalue="559" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -647,7 +743,11 @@
     			<dimension name="DRAW" xvalue="496" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -672,7 +772,11 @@
     			<dimension name="DRAW" xvalue="433" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -697,7 +801,11 @@
     			<dimension name="DRAW" xvalue="937" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -722,7 +830,11 @@
     			<dimension name="DRAW" xvalue="370" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -747,7 +859,11 @@
     			<dimension name="DRAW" xvalue="307" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -772,7 +888,11 @@
     			<dimension name="DRAW" xvalue="244" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -797,7 +917,11 @@
     			<dimension name="DRAW" xvalue="181" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -822,7 +946,11 @@
     			<dimension name="DRAW" xvalue="118" />
 
             
-            </location>
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
         </source>    
         
 
@@ -847,9 +975,1907 @@
     			<dimension name="DRAW" xvalue="55" />
 
             
+    <dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
+        </location>
+        </source>    
+        
+
+
+
+
+
+
+
+
+
+
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw0.ufo" name="master_drawDRWI200">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="200" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
             </location>
         </source>    
         
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw126.ufo" name="master_drawDRWI174">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="174" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw189.ufo" name="master_drawDRWI162">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="162" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw252.ufo" name="master_drawDRWI149">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="149" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw315.ufo" name="master_drawDRWI137">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="137" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw378.ufo" name="master_drawDRWI124">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="124" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw441.ufo" name="master_drawDRWI111">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="111" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw504.ufo" name="master_drawDRWI99">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="99" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw567.ufo" name="master_drawDRWI86">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="86" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw63.ufo" name="master_drawDRWI187">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="187" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw630.ufo" name="master_drawDRWI74">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="74" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw693.ufo" name="master_drawDRWI61">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="61" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw756.ufo" name="master_drawDRWI48">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="48" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw819.ufo" name="master_drawDRWI36">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="36" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw882.ufo" name="master_drawDRWI23">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="23" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw945.ufo" name="master_drawDRWI11">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="11" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw0.ufo" name="master_drawDRWO800">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="800" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw126.ufo" name="master_drawDRWO699">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="699" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw189.ufo" name="master_drawDRWO648">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="648" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw252.ufo" name="master_drawDRWO598">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="598" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw315.ufo" name="master_drawDRWO548">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="548" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw378.ufo" name="master_drawDRWO497">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="497" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw441.ufo" name="master_drawDRWO447">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="447" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw504.ufo" name="master_drawDRWO396">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="396" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw567.ufo" name="master_drawDRWO346">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="346" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw63.ufo" name="master_drawDRWO749">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="749" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw630.ufo" name="master_drawDRWO296">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="296" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw693.ufo" name="master_drawDRWO245">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="245" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw756.ufo" name="master_drawDRWO195">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="195" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw819.ufo" name="master_drawDRWO144">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="144" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw882.ufo" name="master_drawDRWO94">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="94" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw945.ufo" name="master_drawDRWO44">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="44" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+
+
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw0.ufo" name="master_drawDRWW1000">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="1000" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw126.ufo" name="master_drawDRWW874">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="874" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw189.ufo" name="master_drawDRWW811">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="811" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw252.ufo" name="master_drawDRWW748">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="748" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw315.ufo" name="master_drawDRWW685">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="685" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw378.ufo" name="master_drawDRWW622">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="622" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw441.ufo" name="master_drawDRWW559">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="559" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw504.ufo" name="master_drawDRWW496">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="496" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw567.ufo" name="master_drawDRWW433">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="433" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw63.ufo" name="master_drawDRWW937">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="937" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw630.ufo" name="master_drawDRWW370">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="370" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw693.ufo" name="master_drawDRWW307">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="307" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw756.ufo" name="master_drawDRWW244">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="244" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw819.ufo" name="master_drawDRWW181">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="181" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw882.ufo" name="master_drawDRWW118">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="118" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw945.ufo" name="master_drawDRWW55">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="55" />
+    			<dimension name="DRWA" xvalue="0" />
+
+            
+            </location>
+        </source>    
+        
+
+
+
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw0.ufo" name="master_drawDRWI550">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="550" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw126.ufo" name="master_drawDRWI480">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="480" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw189.ufo" name="master_drawDRWI446">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="446" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw252.ufo" name="master_drawDRWI411">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="411" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw315.ufo" name="master_drawDRWI376">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="376" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw378.ufo" name="master_drawDRWI342">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="342" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw441.ufo" name="master_drawDRWI307">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="307" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw504.ufo" name="master_drawDRWI272">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="272" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw567.ufo" name="master_drawDRWI238">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="238" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw63.ufo" name="master_drawDRWI515">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="515" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw630.ufo" name="master_drawDRWI203">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="203" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw693.ufo" name="master_drawDRWI168">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="168" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw756.ufo" name="master_drawDRWI134">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="134" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw819.ufo" name="master_drawDRWI99">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="99" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw882.ufo" name="master_drawDRWI64">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="64" />
+
+            
+            </location>
+        </source>    
+        
+
+             <source filename="../3-animation-test/Decovar-Regular24Draw945.ufo" name="master_drawDRWI30">
+    
+            <location>
+                <dimension name="sklA" xvalue="0" />
+                <dimension name="sklB" xvalue="0" />
+                <dimension name="sklD" xvalue="0" />
+                <dimension name="trmA" xvalue="0" />
+                <dimension name="trmB" xvalue="0" />
+                <dimension name="trmC" xvalue="0" />
+                <dimension name="trmD" xvalue="0" />
+                <dimension name="trmE" xvalue="0" />
+                <dimension name="trmF" xvalue="0" />
+                <dimension name="trmG" xvalue="0" />
+                <dimension name="trmK" xvalue="0" />
+                <dimension name="trmL" xvalue="0" />
+                <dimension name="wmx2" xvalue="0" />
+    			<dimension name="bldA" xvalue="0" />
+    			<dimension name="bldB" xvalue="0" />
+    			<dimension name="DRAW" xvalue="0" />
+    			<dimension name="DRWI" xvalue="0" />
+    			<dimension name="DRWO" xvalue="0" />
+    			<dimension name="DRWW" xvalue="0" />
+    			<dimension name="DRWA" xvalue="30" />
+
+            
+            </location>
+        </source>    
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
   
@@ -875,6 +2901,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -899,6 +2929,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -923,6 +2957,10 @@
             <dimension name="bldB" xvalue="1000" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -947,6 +2985,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -971,6 +3013,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -995,6 +3041,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -1020,6 +3070,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -1044,6 +3098,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -1069,6 +3127,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -1097,6 +3159,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -1121,6 +3187,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -1145,6 +3215,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -1169,6 +3243,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -1193,6 +3271,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -1218,6 +3300,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -1243,6 +3329,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -1267,6 +3357,10 @@
             <dimension name="bldB" xvalue="0" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
@@ -1291,6 +3385,10 @@
             <dimension name="bldB" xvalue="1000" />
 			<dimension name="DRAW" xvalue="0" />
 
+<dimension name="DRWI" xvalue="0" />
+<dimension name="DRWO" xvalue="0" />
+<dimension name="DRWW" xvalue="0" />
+<dimension name="DRWA" xvalue="0" />
         </location>
         <kerning />
         <info />
