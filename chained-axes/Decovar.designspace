@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="0" maximum="3" minimum="0" name="skeleton" tag="skel">
+            <labelname xml:lang="en">Skeleton</labelname>
+        </axis>
+        <axis default="0" maximum="7" minimum="0" name="terminal" tag="term">
+            <labelname xml:lang="en">Terminal</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24.ufo" name="Decovar-Regular24.ufo" stylename="Regular24">
+            <info copy="1" />
+            <location>
+                <dimension name="terminal" xvalue="0" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24SkelA.ufo" name="Decovar-Regular24SkelA.ufo" stylename="SkelA">
+            <location>
+                <dimension name="terminal" xvalue="0" />
+                <dimension name="skeleton" xvalue="1" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24.ufo" name="Decovar-Regular24.ufo" stylename="Regular24">
+            <location>
+                <dimension name="terminal" xvalue="0" />
+                <dimension name="skeleton" xvalue="1.500000" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24SkelB2.ufo" name="Decovar-Regular24SkelB2.ufo" stylename="SkelB">
+            <location>
+                <dimension name="terminal" xvalue="0" />
+                <dimension name="skeleton" xvalue="2" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24.ufo" name="Decovar-Regular24.ufo" stylename="Regular24">
+            <location>
+                <dimension name="terminal" xvalue="0" />
+                <dimension name="skeleton" xvalue="2.500000" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24SkelD2.ufo" name="Decovar-Regular24SkelD2.ufo" stylename="SkelD">
+            <location>
+                <dimension name="terminal" xvalue="0" />
+                <dimension name="skeleton" xvalue="2.750000" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24SkelD4.ufo" name="Decovar-Regular24SkelD4.ufo" stylename="SkelD">
+            <location>
+                <dimension name="terminal" xvalue="0" />
+                <dimension name="skeleton" xvalue="3" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24TermA.ufo" name="Decovar-Regular24TermA.ufo" stylename="TermA">
+            <location>
+                <dimension name="terminal" xvalue="0.500000" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24TermA2.ufo" name="Decovar-Regular24TermA2.ufo" stylename="TermA">
+            <location>
+                <dimension name="terminal" xvalue="1" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24.ufo" name="Decovar-Regular24.ufo" stylename="Regular24">
+            <location>
+                <dimension name="terminal" xvalue="1.500000" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24TermB.ufo" name="Decovar-Regular24TermB.ufo" stylename="TermB">
+            <location>
+                <dimension name="terminal" xvalue="2" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24.ufo" name="Decovar-Regular24.ufo" stylename="Regular24">
+            <location>
+                <dimension name="terminal" xvalue="2.500000" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24TermC.ufo" name="Decovar-Regular24TermC.ufo" stylename="TermC">
+            <location>
+                <dimension name="terminal" xvalue="3" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24.ufo" name="Decovar-Regular24.ufo" stylename="Regular24">
+            <location>
+                <dimension name="terminal" xvalue="3.500000" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24TermD.ufo" name="Decovar-Regular24TermD.ufo" stylename="TermD">
+            <location>
+                <dimension name="terminal" xvalue="4" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24.ufo" name="Decovar-Regular24.ufo" stylename="Regular24">
+            <location>
+                <dimension name="terminal" xvalue="4.500000" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24TermE.ufo" name="Decovar-Regular24TermE.ufo" stylename="TermE">
+            <location>
+                <dimension name="terminal" xvalue="5" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24.ufo" name="Decovar-Regular24.ufo" stylename="Regular24">
+            <location>
+                <dimension name="terminal" xvalue="5.500000" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24TermF.ufo" name="Decovar-Regular24TermF.ufo" stylename="TermF">
+            <location>
+                <dimension name="terminal" xvalue="6" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24.ufo" name="Decovar-Regular24.ufo" stylename="Regular24">
+            <location>
+                <dimension name="terminal" xvalue="6.500000" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24TermG.ufo" name="Decovar-Regular24TermG.ufo" stylename="TermG">
+            <location>
+                <dimension name="terminal" xvalue="7" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+    </sources>
+</designspace>
