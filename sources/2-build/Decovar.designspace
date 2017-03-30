@@ -750,7 +750,7 @@
         <info />
     </instance>
     
-    
+    <!--
     <instance familyname="Decovar" name="instance_SlabInline" stylemapstylename="regular" stylename="Slab Inline">
         <location>
             <dimension name="SKLA" xvalue="500" />
@@ -772,7 +772,7 @@
         <kerning />
         <info />
     </instance>
-    
+    -->
     
     <instance familyname="Decovar" name="instance_Contrast" stylemapstylename="regular" stylename="Contrast">
         <location>
