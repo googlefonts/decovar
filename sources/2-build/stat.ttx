@@ -6,82 +6,113 @@
     <DesignAxisRecordSize value="15"/>
 
     <DesignAxisRecord>
-    
+
+
       <Axis index="0">
-        <AxisTag value="bldA"/>
+        <AxisTag value="INLN"/>
         <AxisNameID value="256"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="1"/>
       </Axis>
+    
+
       <Axis index="1">
-        <AxisTag value="bldB"/>
+        <AxisTag value="SINL"/>
         <AxisNameID value="257"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="3"/>
       </Axis>
+    
+
       <Axis index="2">
-        <AxisTag value="sklA"/>
+        <AxisTag value="SSTR"/>
         <AxisNameID value="258"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="5"/>
       </Axis>
+    
+
       <Axis index="3">
-        <AxisTag value="sklB"/>
+        <AxisTag value="SWRM"/>
         <AxisNameID value="259"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="4"/>
       </Axis>
+    
+
       <Axis index="4">
-        <AxisTag value="sklD"/>
+        <AxisTag value="TBIF"/>
         <AxisNameID value="260"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="12"/>
       </Axis>
+    
+
       <Axis index="5">
-        <AxisTag value="trmA"/>
+        <AxisTag value="TFLR"/>
         <AxisNameID value="261"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="11"/>
       </Axis>
+    
+
       <Axis index="6">
-        <AxisTag value="trmB"/>
+        <AxisTag value="TINL"/>
         <AxisNameID value="262"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="8"/>
       </Axis>
+    
+
       <Axis index="7">
-        <AxisTag value="trmC"/>
+        <AxisTag value="TOIL"/>
         <AxisNameID value="263"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="9"/>
       </Axis>
+    
+
       <Axis index="8">
-        <AxisTag value="trmD"/>
+        <AxisTag value="TRND"/>
         <AxisNameID value="264"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="6"/>
       </Axis>
+    
+
       <Axis index="9">
-        <AxisTag value="trmE"/>
+        <AxisTag value="TRSB"/>
         <AxisNameID value="265"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="14"/>
       </Axis>
+    
+
       <Axis index="10">
-        <AxisTag value="trmF"/>
+        <AxisTag value="TSHR"/>
         <AxisNameID value="266"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="7"/>
       </Axis>
+    
+
       <Axis index="11">
-        <AxisTag value="trmG"/>
+        <AxisTag value="TSLB"/>
         <AxisNameID value="267"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="13"/>
       </Axis>
+    
+
       <Axis index="12">
-        <AxisTag value="trmK"/>
+        <AxisTag value="TWRM"/>
         <AxisNameID value="268"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="10"/>
       </Axis>
+    
+
       <Axis index="13">
-        <AxisTag value="trmL"/>
+        <AxisTag value="WORM"/>
         <AxisNameID value="269"/>
-        <AxisOrdering value="0"/>
+        <AxisOrdering value="2"/>
       </Axis>
+    
+
       <Axis index="14">
-        <AxisTag value="wmx2"/>
+        <AxisTag value="wght"/>
         <AxisNameID value="270"/>
         <AxisOrdering value="0"/>
       </Axis>
+    
+
 
       
     </DesignAxisRecord>
