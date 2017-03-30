@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="3">
     <axes>
-        <axis default="0" maximum="3" minimum="0" name="skeleton" tag="skel">
+        <axis default="0" maximum="3" minimum="0" name="skeleton" tag="SKEL">
             <labelname xml:lang="en">Skeleton</labelname>
         </axis>
-        <axis default="0" maximum="7" minimum="0" name="terminal" tag="term">
+        <axis default="0" maximum="9" minimum="0" name="terminal" tag="TERM">
             <labelname xml:lang="en">Terminal</labelname>
         </axis>
     </axes>
@@ -28,7 +28,7 @@
                 <dimension name="skeleton" xvalue="1.500000" />
             </location>
         </source>
-        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24SkelB2.ufo" name="Decovar-Regular24SkelB2.ufo" stylename="SkelB">
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24SkelD2.ufo" name="Decovar-Regular24SkelD2.ufo" stylename="SkelD">
             <location>
                 <dimension name="terminal" xvalue="0" />
                 <dimension name="skeleton" xvalue="2" />
@@ -40,13 +40,7 @@
                 <dimension name="skeleton" xvalue="2.500000" />
             </location>
         </source>
-        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24SkelD2.ufo" name="Decovar-Regular24SkelD2.ufo" stylename="SkelD">
-            <location>
-                <dimension name="terminal" xvalue="0" />
-                <dimension name="skeleton" xvalue="2.750000" />
-            </location>
-        </source>
-        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24SkelD4.ufo" name="Decovar-Regular24SkelD4.ufo" stylename="SkelD">
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24SkelB2.ufo" name="Decovar-Regular24SkelB2.ufo" stylename="SkelB">
             <location>
                 <dimension name="terminal" xvalue="0" />
                 <dimension name="skeleton" xvalue="3" />
@@ -136,5 +130,151 @@
                 <dimension name="skeleton" xvalue="0" />
             </location>
         </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24.ufo" name="Decovar-Regular24.ufo" stylename="Regular24">
+            <location>
+                <dimension name="terminal" xvalue="7.500000" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24TermSkelA.ufo" name="Decovar-Regular24TermSkelA.ufo" stylename="TermSkelA">
+            <location>
+                <dimension name="terminal" xvalue="8" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24.ufo" name="Decovar-Regular24.ufo" stylename="Regular24">
+            <location>
+                <dimension name="terminal" xvalue="8.500000" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
+        <source familyname="Decovar" filename="master_ufo/Decovar-Regular24TermSkelB.ufo" name="Decovar-Regular24TermSkelB.ufo" stylename="TermSkelB">
+            <location>
+                <dimension name="terminal" xvalue="9" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+        </source>
     </sources>
+    <instances>
+        <instance familyname="Decovar" stylename="Regular">
+            <location>
+                <dimension name="terminal" xvalue="0" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Open">
+            <location>
+                <dimension name="terminal" xvalue="8" />
+                <dimension name="skeleton" xvalue="1" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Worm">
+            <location>
+                <dimension name="terminal" xvalue="9" />
+                <dimension name="skeleton" xvalue="3" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Checkered">
+            <location>
+                <dimension name="terminal" xvalue="0" />
+                <dimension name="skeleton" xvalue="1" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Checkered Reverse">
+            <location>
+                <dimension name="terminal" xvalue="8" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Stripped">
+            <location>
+                <dimension name="terminal" xvalue="0" />
+                <dimension name="skeleton" xvalue="2" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Rounded">
+            <location>
+                <dimension name="terminal" xvalue="1" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Flared">
+            <location>
+                <dimension name="terminal" xvalue="2" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Flared Open">
+            <location>
+                <dimension name="terminal" xvalue="2" />
+                <dimension name="skeleton" xvalue="1" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Rounded Slab">
+            <location>
+                <dimension name="terminal" xvalue="3" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Sheared">
+            <location>
+                <dimension name="terminal" xvalue="4" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Bifurcated">
+            <location>
+                <dimension name="terminal" xvalue="5" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Inline">
+            <location>
+                <dimension name="terminal" xvalue="8.250000" />
+                <dimension name="skeleton" xvalue="1.250000" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Slab">
+            <location>
+                <dimension name="terminal" xvalue="7" />
+                <dimension name="skeleton" xvalue="0" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+        <instance familyname="Decovar" stylename="Slab Inline">
+            <location>
+                <dimension name="terminal" xvalue="7" />
+                <dimension name="skeleton" xvalue="1.250000" />
+            </location>
+            <kerning />
+            <info />
+        </instance>
+    </instances>
 </designspace>
