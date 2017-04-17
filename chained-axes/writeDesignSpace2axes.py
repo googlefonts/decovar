@@ -55,7 +55,7 @@ instances = [
 	dict(location=dict(skeleton=0, terminal=5), styleName="Bifurcated", familyName=familyName),
 	dict(location=dict(skeleton=1.25, terminal=8.25), styleName="Inline", familyName=familyName),
 	dict(location=dict(skeleton=0, terminal=7), styleName="Slab", familyName=familyName),
-	dict(location=dict(skeleton=1.25, terminal=7), styleName="Slab Inline", familyName=familyName),
+	#dict(location=dict(skeleton=1.25, terminal=7), styleName="Slab Inline", familyName=familyName),
 	# Contrast
 	# Fancy
 	# Mayhem

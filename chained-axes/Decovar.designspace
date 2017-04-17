@@ -268,13 +268,5 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Decovar" stylename="Slab Inline">
-            <location>
-                <dimension name="terminal" xvalue="7" />
-                <dimension name="skeleton" xvalue="1.250000" />
-            </location>
-            <kerning />
-            <info />
-        </instance>
     </instances>
 </designspace>
