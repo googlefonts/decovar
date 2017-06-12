@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="BaseLeftCurvedElement" format="1">
+  <advance width="656"/>
+  <outline>
+    <contour>
+      <point x="18" y="17" type="qcurve"/>
+      <point x="16" y="18"/>
+      <point x="16" y="18"/>
+      <point x="16" y="61" type="qcurve" smooth="yes"/>
+      <point x="16" y="100"/>
+      <point x="16" y="100"/>
+      <point x="20" y="98" type="qcurve"/>
+      <point x="23" y="96"/>
+      <point x="23" y="96"/>
+      <point x="23" y="58" type="qcurve" smooth="yes"/>
+      <point x="23" y="15"/>
+      <point x="23" y="15"/>
+    </contour>
+    <contour>
+      <point x="20" y="98" type="qcurve"/>
+      <point x="16" y="100"/>
+      <point x="16" y="100"/>
+      <point x="16" y="149" type="qcurve" smooth="yes"/>
+      <point x="16" y="184"/>
+      <point x="16" y="184"/>
+      <point x="20" y="182" type="qcurve"/>
+      <point x="23" y="180"/>
+      <point x="23" y="180"/>
+      <point x="23" y="140" type="qcurve" smooth="yes"/>
+      <point x="23" y="96"/>
+      <point x="23" y="96"/>
+    </contour>
+    <contour>
+      <point x="98" y="-9" type="qcurve"/>
+      <point x="23" y="15"/>
+      <point x="23" y="15"/>
+      <point x="23" y="20" type="qcurve" smooth="yes"/>
+      <point x="23" y="24"/>
+      <point x="23" y="24"/>
+      <point x="98" y="0" type="qcurve"/>
+      <point x="180" y="-13"/>
+      <point x="180" y="-13"/>
+      <point x="180" y="-17" type="qcurve" smooth="yes"/>
+      <point x="180" y="-22"/>
+      <point x="180" y="-22"/>
+    </contour>
+    <contour>
+      <point x="98" y="137" type="qcurve"/>
+      <point x="23" y="171"/>
+      <point x="23" y="171"/>
+      <point x="23" y="175" type="qcurve" smooth="yes"/>
+      <point x="23" y="180"/>
+      <point x="23" y="180"/>
+      <point x="98" y="145" type="qcurve"/>
+      <point x="180" y="125"/>
+      <point x="180" y="125"/>
+      <point x="180" y="121" type="qcurve" smooth="yes"/>
+      <point x="180" y="117"/>
+      <point x="180" y="117"/>
+    </contour>
+  </outline>
+</glyph>
