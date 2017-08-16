@@ -4,6 +4,9 @@
 <dict>
 	<key>com.typemytype.robofont.binarySource</key>
 	<string>/Users/SO/Desktop/Decovar/fb-Decovar/sources/2-build/Decovar-Regular24bldB.ttf</string>
+	<key>com.typemytype.robofont.layerOrder</key>
+	<array>
+	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>qcurve</string>
 	<key>com.typemytype.robofont.sort</key>
