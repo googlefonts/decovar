@@ -1,123 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="3.0">
 
-<STAT>
-    <Version value="0x00010000"/>
-    <DesignAxisRecordSize value="15"/>
-
+  <STAT>
+    <Version value="0x00010001"/>
+    <DesignAxisRecordSize value="8"/>
+    <!-- DesignAxisCount=15 -->
     <DesignAxisRecord>
-
-
       <Axis index="0">
         <AxisTag value="INLN"/>
-        <AxisNameID value="256"/>
+        <AxisNameID value="256"/>  <!-- Inline -->
         <AxisOrdering value="1"/>
       </Axis>
-    
-
       <Axis index="1">
         <AxisTag value="SINL"/>
-        <AxisNameID value="257"/>
+        <AxisNameID value="257"/>  <!-- Shearded -->
         <AxisOrdering value="3"/>
       </Axis>
-    
-
       <Axis index="2">
         <AxisTag value="SSTR"/>
-        <AxisNameID value="258"/>
+        <AxisNameID value="258"/>  <!-- Rounded Slab -->
         <AxisOrdering value="5"/>
       </Axis>
-    
-
       <Axis index="3">
         <AxisTag value="SWRM"/>
-        <AxisNameID value="259"/>
+        <AxisNameID value="259"/>  <!-- Stripes -->
         <AxisOrdering value="4"/>
       </Axis>
-    
-
       <Axis index="4">
         <AxisTag value="TBIF"/>
-        <AxisNameID value="260"/>
+        <AxisNameID value="260"/>  <!-- Worm Terminal -->
         <AxisOrdering value="12"/>
       </Axis>
-    
-
       <Axis index="5">
         <AxisTag value="TFLR"/>
-        <AxisNameID value="261"/>
+        <AxisNameID value="261"/>  <!-- Inline Skeleton -->
         <AxisOrdering value="11"/>
       </Axis>
-    
-
       <Axis index="6">
         <AxisTag value="TINL"/>
-        <AxisNameID value="262"/>
+        <AxisNameID value="262"/>  <!-- Open Inline Terminal -->
         <AxisOrdering value="8"/>
       </Axis>
-    
-
       <Axis index="7">
         <AxisTag value="TOIL"/>
-        <AxisNameID value="263"/>
+        <AxisNameID value="263"/>  <!-- Inline Terminal -->
         <AxisOrdering value="9"/>
       </Axis>
-    
-
       <Axis index="8">
         <AxisTag value="TRND"/>
-        <AxisNameID value="264"/>
+        <AxisNameID value="264"/>  <!-- Worm -->
         <AxisOrdering value="6"/>
       </Axis>
-    
-
       <Axis index="9">
         <AxisTag value="TRSB"/>
-        <AxisNameID value="265"/>
+        <AxisNameID value="265"/>  <!-- Weight -->
         <AxisOrdering value="14"/>
       </Axis>
-    
-
       <Axis index="10">
         <AxisTag value="TSHR"/>
-        <AxisNameID value="266"/>
+        <AxisNameID value="266"/>  <!-- Flared -->
         <AxisOrdering value="7"/>
       </Axis>
-    
-
       <Axis index="11">
         <AxisTag value="TSLB"/>
-        <AxisNameID value="267"/>
+        <AxisNameID value="267"/>  <!-- Rounded -->
         <AxisOrdering value="13"/>
       </Axis>
-    
-
       <Axis index="12">
         <AxisTag value="TWRM"/>
-        <AxisNameID value="268"/>
+        <AxisNameID value="268"/>  <!-- Worm Skeleton -->
         <AxisOrdering value="10"/>
       </Axis>
-    
-
       <Axis index="13">
         <AxisTag value="WORM"/>
-        <AxisNameID value="269"/>
+        <AxisNameID value="269"/>  <!-- Slab -->
         <AxisOrdering value="2"/>
       </Axis>
-    
-
       <Axis index="14">
         <AxisTag value="wght"/>
-        <AxisNameID value="270"/>
+        <AxisNameID value="270"/>  <!-- Bifurcated -->
         <AxisOrdering value="0"/>
       </Axis>
-    
-
-
-      
     </DesignAxisRecord>
+    <!-- AxisValueCount=0 -->
     <AxisValueArray>
     </AxisValueArray>
+        <ElidedFallbackNameID value="2"/>  <!-- Regular -->
+
   </STAT>
 </ttFont>
 
