@@ -6,7 +6,7 @@ A variable decorative sans by David Berlow.
 
 The [documentation](documentation/) contains a description of the project and typographic contents of the repo.
 
-The [fonts](fonts/) folder of each version contains the FontName-Variations.ttf file, the Variations Font.
+The [fonts](fonts/) folder contains the DecovarAlpha-VF.ttf file, the variable font.
 
 The [sources](sources/) folder contains the fonts with axis data in their names, used to create the Variations Font.
 
@@ -14,24 +14,9 @@ The [sources](sources/) folder contains the fonts with axis data in their names,
 
 ## Generating
 
-The Decovar variable font was created with RoboFont and generated using fontTools.
-
-To generate the correct name table, I have customized the `standard_axis_map` dictionary in `fontTools/varLib/__init__.py` with the following entries. Hopefully in future versions of fontTools this will be pulled from `Decovar.designspace` instead.
+The Decovar variable font was created with RoboFont and is generated using [fontmake](https://github.com/googlei18n/fontmake). A build script `build.sh` is included that will build the variable font using fontmake, copy it to the `/fonts` folder, and offer a subsetted version.
 
 ```
-'WMX2':  ('wght', 'Weight'), 
-'BLDA':  ('INLN', 'Inline'), 
-'BLDB':  ('WORM', 'Worm'), 
-'SKLA':  ('SINL', 'Inline Skeleton'), 
-'SKLB':  ('SWRM', 'Worm Skeleton'), 
-'SKLD':  ('SSTR', 'Stripes'),
-'TRMA':  ('TRND', 'Rounded'), 
-'TRMD':  ('TSHR', 'Sheared'), 
-'TRMK':  ('TINL', 'Inline Terminal'), 
-'TRMF':  ('TOIL', 'Open Inline Terminal'), 
-'TRML':  ('TWRM', 'Worm Terminal'), 
-'TRMB':  ('TFLR', 'Flared'), 
-'TRME':  ('TBIF', 'Bifurcated'),
-'TRMG':  ('TSLB', 'Slab'), 
-'TRMC':  ('TRSB', 'Rounded Slab'), 
+$ cd sources/2-build
+$ bash build.sh
 ```
