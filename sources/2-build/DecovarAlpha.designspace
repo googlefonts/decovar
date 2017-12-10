@@ -1,0 +1,879 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<designspace format="3">
+
+	<axes>
+		<axis default="0" maximum="1000" minimum="0" name="Inline" tag="BLDA">
+            <labelname xml:lang="en">Inline</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Shearded" tag="TRMD">
+            <labelname xml:lang="en">Shearded</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Rounded Slab" tag="TRMC">
+            <labelname xml:lang="en">Rounded Slab</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Stripes" tag="SKLD">
+            <labelname xml:lang="en">Stripes</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Worm Terminal" tag="TRML">
+            <labelname xml:lang="en">Worm Terminal</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Inline Skeleton" tag="SKLA">
+            <labelname xml:lang="en">Inline Skeleton</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Open Inline Terminal" tag="TRMF">
+            <labelname xml:lang="en">Open Inline Terminal</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Inline Terminal" tag="TRMK">
+            <labelname xml:lang="en">Inline Terminal</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Worm" tag="BLDB">
+            <labelname xml:lang="en">Worm</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Weight" tag="WMX2">
+            <labelname xml:lang="en">Weight</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Flared" tag="TRMB">
+            <labelname xml:lang="en">Flared</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Rounded" tag="TRMA">
+            <labelname xml:lang="en">Rounded</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Worm Skeleton" tag="SKLB">
+            <labelname xml:lang="en">Worm Skeleton</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Slab" tag="TRMG">
+            <labelname xml:lang="en">Slab</labelname>
+        </axis>
+        <axis default="0" maximum="1000" minimum="0" name="Bifurcated" tag="TRME">
+            <labelname xml:lang="en">Bifurcated</labelname>
+        </axis>
+    </axes>
+
+    <sources>
+
+    
+        <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24.ufo" name="master_Regular" stylename="Default">
+    
+            <lib copy="1" />
+            <groups copy="1" />
+            <info copy="1" />
+            
+	        <location>
+	            <dimension name="Inline Skeleton" xvalue="0" />
+	            <dimension name="Worm Skeleton" xvalue="0" />
+	            <dimension name="Stripes" xvalue="0" />
+	            <dimension name="Rounded" xvalue="0" />
+	            <dimension name="Flared" xvalue="0" />
+	            <dimension name="Rounded Slab" xvalue="0" />
+	            <dimension name="Shearded" xvalue="0" />
+	            <dimension name="Bifurcated" xvalue="0" />
+	            <dimension name="Open Inline Terminal" xvalue="0" />
+	            <dimension name="Slab" xvalue="0" />
+
+	            <dimension name="Inline Terminal" xvalue="0" />
+	            <dimension name="Worm Terminal" xvalue="0" />
+	            <dimension name="Weight" xvalue="0" />
+				<dimension name="Inline" xvalue="0" />
+				<dimension name="Worm" xvalue="0" />
+				
+			</location>
+		</source>
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24SkelA.ufo" name="master_sklA">
+    
+        <location>
+            <!-- PRIME --><dimension name="Inline Skeleton" xvalue="1000" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+  
+  
+
+  
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24SkelD2.ufo" name="master_sklD2">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <!-- PRIME --><dimension name="Stripes" xvalue="500" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+  
+  
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24SkelD4.ufo" name="master_sklD4">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <!-- PRIME --><dimension name="Stripes" xvalue="1000" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+  
+  
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24SkelB2.ufo" name="master_sklB2">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <!-- PRIME --><dimension name="Worm Skeleton" xvalue="1000" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+  
+
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24TermA.ufo" name="master_trmA">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <!-- PRIME --><dimension name="Rounded" xvalue="1000" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+    
+
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24TermB.ufo" name="master_trmB">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <!-- PRIME --><dimension name="Flared" xvalue="1000" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+    
+    
+
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24TermC.ufo" name="master_trmC">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <!-- PRIME --><dimension name="Rounded Slab" xvalue="1000" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+    
+
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24TermD.ufo" name="master_trmD">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <!-- PRIME --><dimension name="Shearded" xvalue="1000" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+    
+
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24TermE.ufo" name="master_trmE">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <!-- PRIME --><dimension name="Bifurcated" xvalue="1000" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+    
+
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24TermF.ufo" name="master_trmF">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <!-- PRIME --><dimension name="Open Inline Terminal" xvalue="1000" />
+            <dimension name="Slab" xvalue="0" />
+            
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+    
+    
+
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24TermG.ufo" name="master_trmG">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <!-- PRIME --><dimension name="Slab" xvalue="1000" />
+            
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+    
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24TermSkelA.ufo" name="master_trmK">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <!-- PRIME --><dimension name="Inline Terminal" xvalue="1000" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24TermSkelB.ufo" name="master_trmL">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <!-- PRIME --><dimension name="Worm Terminal" xvalue="1000" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>    
+
+<!-- WeightMax2 -->
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24WeightMax1.ufo" name="master_wmx1">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <!-- PRIME --><dimension name="Weight" xvalue="5" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24WeightMax1.5.ufo" name="master_wmx1.5">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <!-- PRIME --><dimension name="Weight" xvalue="507.806" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+    
+    <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24WeightMax2.ufo" name="master_wmx2">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <!-- PRIME --><dimension name="Weight" xvalue="1000" />
+			<dimension name="Inline" xvalue="0" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>
+    
+
+<!-- Blends -->
+     <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24bldA.ufo" name="master_bldA">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<!-- PRIME --><dimension name="Inline" xvalue="1000" />
+			<dimension name="Worm" xvalue="0" />
+            
+        </location>
+    </source>    
+
+     <source familyname="Decovar Alpha" filename="DecovarAlpha-Regular24bldB.ufo" name="master_bldB">
+    
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+			<dimension name="Inline" xvalue="0" />
+			<!-- PRIME --><dimension name="Worm" xvalue="1000" />
+            
+        </location>
+    </source>    
+
+  
+  
+  
+</sources>
+<instances>
+
+
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Default.ufo" name="Regular" stylemapstylename="regular" stylename="Default">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+
+
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Open.ufo" name="instance_Open" stylemapstylename="regular" stylename="Open">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="1000" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Worm.ufo" name="instance_Worm" stylemapstylename="regular" stylename="Worm">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="1000" />
+        </location>
+    </instance>
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Checkered.ufo" name="instance_Checkered" stylemapstylename="regular" stylename="Checkered">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="1000" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-CheckeredReverse.ufo" name="instance_CheckeredReverse" stylemapstylename="regular" stylename="Checkered Reverse">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="1000" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Striped.ufo" name="instance_Striped" stylemapstylename="regular" stylename="Striped">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="500" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Rounded.ufo" name="instance_Rounded" stylemapstylename="regular" stylename="Rounded">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="1000" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Flared.ufo" name="instance_Flared" stylemapstylename="regular" stylename="Flared">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="1000" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-FlaredOpen.ufo" name="instance_FlaredCheckered" stylemapstylename="regular" stylename="Flared Open">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="1000" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="1000" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+
+    
+
+
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-RoundedSlab.ufo" name="instance_RoundedSlab" stylemapstylename="regular" stylename="Rounded Slab">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="1000" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Sheared.ufo" name="instance_Sheared" stylemapstylename="regular" stylename="Sheared">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="1000" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Bifurcated.ufo" name="instance_Bifurcated" stylemapstylename="regular" stylename="Bifurcated">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="1000" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Inline.ufo" name="instance_Inline" stylemapstylename="regular" stylename="Inline">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="500" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="500" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Slab.ufo" name="instance_Slab" stylemapstylename="regular" stylename="Slab">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="1000" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="0" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Contrast.ufo" name="instance_Contrast" stylemapstylename="regular" stylename="Contrast">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="0" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="0" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="1000" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Fancy.ufo" name="instance_Fancy" stylemapstylename="regular" stylename="Fancy">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="1000" />
+            <dimension name="Worm Skeleton" xvalue="0" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="0" />
+            <dimension name="Flared" xvalue="1000" />
+            <dimension name="Rounded Slab" xvalue="0" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="0" />
+            <dimension name="Open Inline Terminal" xvalue="0" />
+            <dimension name="Slab" xvalue="0" />
+            <dimension name="Inline Terminal" xvalue="0" />
+            <dimension name="Worm Terminal" xvalue="0" />
+            <dimension name="Weight" xvalue="1000" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="0" />
+        </location>
+    </instance>
+    
+    <instance familyname="Decovar Alpha" filename="DecovarAlpha-Mayhem.ufo" name="instance_Mayhem" stylemapstylename="regular" stylename="Mayhem">
+        <location>
+            <dimension name="Inline Skeleton" xvalue="1000" />
+            <dimension name="Worm Skeleton" xvalue="1000" />
+            <dimension name="Stripes" xvalue="0" />
+            <dimension name="Rounded" xvalue="500" />
+            <dimension name="Flared" xvalue="500" />
+            <dimension name="Rounded Slab" xvalue="750" />
+            <dimension name="Shearded" xvalue="0" />
+            <dimension name="Bifurcated" xvalue="500" />
+            <dimension name="Open Inline Terminal" xvalue="250" />
+            <dimension name="Slab" xvalue="750" />
+            <dimension name="Inline Terminal" xvalue="250" />
+            <dimension name="Worm Terminal" xvalue="250" />
+            <dimension name="Weight" xvalue="750" />
+            <dimension name="Inline" xvalue="0" />
+            <dimension name="Worm" xvalue="1000" />
+        </location>
+    </instance>
+    
+
+
+
+
+</instances>
+</designspace>
+
+
