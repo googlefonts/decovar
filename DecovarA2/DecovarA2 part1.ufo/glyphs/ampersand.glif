@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ampersand" format="2">
+  <advance width="1589"/>
+  <unicode hex="0026"/>
+  <outline>
+    <component base="part1a" xScale="-1.0487453629513672" xyScale="-2.810252031082427e-16" yxScale="2.9472387863223567e-16" yScale="-1" xOffset="268" yOffset="1368"/>
+    <component base="part1a" xScale="6.106226635438361e-16" xyScale="-0.9416602637180599" yxScale="1.0000000000000007" yScale="1.7445060072747283e-16" xOffset="114" yOffset="121"/>
+    <component base="part1" xScale="1.0255151390006412" xOffset="1281" yOffset="560"/>
+    <component base="part5t"/>
+    <component base="part5u"/>
+    <component base="part1a" xScale="-4.507860971846042e-16" xyScale="0.9416602637180593" yxScale="-1.0150800496521928" yScale="2.220446049250313e-16" xOffset="1506" yOffset="1288"/>
+    <component base="part5v"/>
+    <component base="part1" xScale="0.9262178687814154" xyScale="0.4130531099694733" yxScale="-0.411411293598091" yScale="0.9143883242192823" xOffset="1203" yOffset="999"/>
+    <component base="part5w"/>
+    <component base="part1" xScale="0.9262178687814154" xyScale="0.4130531099694733" yxScale="-0.411411293598091" yScale="0.9143883242192823" xOffset="714" yOffset="786"/>
+    <component base="part5t" xScale="0.9129620631677443" xyScale="0.4080444475991512" yxScale="-0.4080444475991512" yScale="0.9129620631677443" xOffset="543" yOffset="738"/>
+    <component base="part5o" xScale="0.9596416809152606" xyScale="0.2812256109427739" yxScale="-0.2812256109427739" yScale="0.9596416809152606" xOffset="689" yOffset="-530"/>
+    <component base="part2x" xOffset="-1"/>
+    <component base="part1d" xScale="0.2049410644858765" xyScale="-1.004401560092499" yxScale="1.068040076620958" yScale="0.1531900474808024" xOffset="432" yOffset="562"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>5f82fb378cb3ac0f23f450614f516a34799a1f1e99fe41d80a66970664c041459618d4a844ee6a5cc46b16eec5bcdf765896afaa8ef24a7b75e54d179787ed5b</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

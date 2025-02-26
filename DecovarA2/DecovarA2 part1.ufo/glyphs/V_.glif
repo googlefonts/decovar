@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="1280"/>
+  <unicode hex="0076"/>
+  <unicode hex="0056"/>
+  <outline>
+    <component base="part1" xScale="-0.8237347944831784" xyScale="0.37370958815997507" yxScale="-0.40418861992503174" yScale="-0.8909170123402361" xOffset="1280" yOffset="1320"/>
+    <component base="part1" xScale="-0.8237347944831784" xyScale="0.37370958815997507" yxScale="-0.40418861992503174" yScale="-0.8909170123402361" xOffset="1033" yOffset="765"/>
+    <component base="part1" xScale="-0.8725138491231668" xyScale="-0.37836280532996736" yxScale="0.3881365073203099" yScale="-0.895052244080725" xOffset="147" yOffset="1385"/>
+    <component base="part1" xScale="-0.8725138491231668" xyScale="-0.37836280532996736" yxScale="0.3881365073203099" yScale="-0.895052244080725" xOffset="392" yOffset="827"/>
+    <component base="part2" xScale="-0.8237347944831781" xyScale="0.365430246040059" yxScale="-0.40721893459918124" yScale="-0.9226294583045918" xOffset="1281" yOffset="1326"/>
+    <component base="part4" xScale="1.0000000000000013" xyScale="-8.326672684688674e-17" yxScale="8.326672684688674e-17" yScale="1.0000000000000013" xOffset="520" yOffset="-1"/>
+    <component base="part2" xScale="-0.8782720628944534" xyScale="-0.38494189392031186" yxScale="0.40702367416280905" yScale="-0.9286532009110258" xOffset="145" yOffset="1392"/>
+    <component base="part2a" xScale="-0.8050000000000003" xyScale="0.3894787821240837" yxScale="-0.4023837905426381" yScale="-0.9192641681021465" xOffset="972" yOffset="630"/>
+    <component base="part2b" xScale="-0.8796967718078004" xyScale="-0.3838828357749137" yxScale="0.3999577186604109" yScale="-0.9165335909195903" xOffset="450" yOffset="692"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>df1c1869f5f293a57f8ad47d750f9697dce503d61ef59711f1ed5154bfbccf5b57a751c303a2f7335a7754943cb052d59e7b43adf4d5065576793d6c81400531</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

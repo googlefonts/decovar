@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MidStemBot" format="2">
+  <advance width="656"/>
+  <outline>
+    <contour>
+      <point x="287" y="152" type="qcurve"/>
+      <point x="328" y="152"/>
+      <point x="328" y="152"/>
+      <point x="328" y="190" type="qcurve"/>
+      <point x="328" y="228"/>
+      <point x="328" y="263"/>
+      <point x="328" y="380" type="qcurve"/>
+      <point x="328" y="490"/>
+      <point x="328" y="532"/>
+      <point x="328" y="570" type="qcurve"/>
+      <point x="328" y="608"/>
+      <point x="328" y="608"/>
+      <point x="287" y="608" type="qcurve"/>
+      <point x="246" y="608"/>
+      <point x="246" y="608"/>
+      <point x="246" y="570" type="qcurve"/>
+      <point x="246" y="532"/>
+      <point x="246" y="491"/>
+      <point x="246" y="380" type="qcurve"/>
+      <point x="246" y="265"/>
+      <point x="246" y="228"/>
+      <point x="246" y="190" type="qcurve"/>
+      <point x="246" y="152"/>
+      <point x="246" y="152"/>
+    </contour>
+    <contour>
+      <point x="369" y="152" type="qcurve"/>
+      <point x="410" y="152"/>
+      <point x="410" y="152"/>
+      <point x="410" y="190" type="qcurve"/>
+      <point x="410" y="228"/>
+      <point x="410" y="263"/>
+      <point x="410" y="380" type="qcurve"/>
+      <point x="410" y="490"/>
+      <point x="410" y="532"/>
+      <point x="410" y="570" type="qcurve"/>
+      <point x="410" y="608"/>
+      <point x="410" y="608"/>
+      <point x="369" y="608" type="qcurve"/>
+      <point x="328" y="608"/>
+      <point x="328" y="608"/>
+      <point x="328" y="570" type="qcurve"/>
+      <point x="328" y="532"/>
+      <point x="328" y="491"/>
+      <point x="328" y="380" type="qcurve"/>
+      <point x="328" y="265"/>
+      <point x="328" y="228"/>
+      <point x="328" y="190" type="qcurve"/>
+      <point x="328" y="152"/>
+      <point x="328" y="152"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>27af22c236e5f340172710dacf69098fcf1ad469e78efb3da1ca684a04c24c132703ab1e206fd6d380b9fbef15ded32b4ce628907c82392e0069fcb7752b3dfb</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

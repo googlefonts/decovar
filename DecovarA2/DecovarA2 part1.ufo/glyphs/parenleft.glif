@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
+  <advance width="696"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="492" y="557" type="move"/>
+    </contour>
+    <component base="part1" xOffset="97" yOffset="533"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>a5fc5a06c4f08a457a90af7f5f587a5289c35e21998f5d8fb4df1e9511f59853a881f7669a1ef0ed4a8f3960c5e0c69bcd4fc861d8c21a39f465d2a1ed91131e</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

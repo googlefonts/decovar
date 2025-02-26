@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="1636"/>
+  <unicode hex="0077"/>
+  <unicode hex="0057"/>
+  <outline>
+    <component base="part4e" xOffset="1026"/>
+    <component base="part4e" xScale="-1.0000000000000009" xyScale="2.220446049250313e-16" yxScale="-2.220446049250313e-16" yScale="-1.0000000000000009" xOffset="925" yOffset="1057"/>
+    <component base="part4e" xOffset="408"/>
+    <component base="part1" xScale="0.902602438928297" xyScale="0.3009799513168848" yxScale="-0.30812953820165206" yScale="0.9240431845038269" xOffset="46" yOffset="1200"/>
+    <component base="part1" xScale="0.9014843472259779" xyScale="0.30431244726526946" yxScale="-0.3115411954670013" yScale="0.9228985332458433" xOffset="242" yOffset="622"/>
+    <component base="part1" xScale="0.8547605066374435" xyScale="-0.2904629789842024" yxScale="0.3131552799577931" yScale="0.9215383202672168" xOffset="1448" yOffset="1244"/>
+    <component base="part1" xScale="0.8547605066374435" xyScale="-0.2904629789842024" yxScale="0.3131552799577931" yScale="0.9215383202672168" xOffset="1252" yOffset="665"/>
+    <component base="part2" xScale="0.9018679779355114" xyScale="0.30474767750732784" yxScale="-0.32451556103638407" yScale="0.9603689033313604" xOffset="244" yOffset="616"/>
+    <component base="part2q" xOffset="242"/>
+    <component base="part2r" xOffset="1299"/>
+    <component base="part2s" xOffset="1130"/>
+    <component base="part1" xScale="0.8554854141790315" xyScale="-0.2904629789842024" yxScale="0.3134208615123533" yScale="0.9215383202672168" xOffset="592" yOffset="533"/>
+    <component base="part2t" xOffset="512"/>
+    <component base="part1" xScale="0.9014843472259779" xyScale="0.30431244726526946" yxScale="-0.3115411954670013" yScale="0.9228985332458433" xOffset="907" yOffset="485"/>
+    <component base="part2u" xOffset="821"/>
+    <component base="part2v" xOffset="907"/>
+    <component base="part2w" xOffset="640"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>ecb40f8f4fa6bcf0e590657b6b966f77ddd33e977297b2509cb4c46d1a697be13a49e58edbc7d803ea76f53f395b4759de1d97f90182c0e14e28d7fe27d4ac58</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less" format="2">
+  <advance width="665"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="615" y="255" type="line"/>
+      <point x="615" y="452" type="line"/>
+      <point x="260" y="680" type="line"/>
+      <point x="615" y="918" type="line"/>
+      <point x="615" y="1105" type="line"/>
+      <point x="80" y="750" type="line"/>
+      <point x="80" y="610" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w665l615+255l615+452l260+680l615+918l615+1105l80+750l80+610|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

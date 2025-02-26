@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S" format="2">
+  <advance width="812"/>
+  <unicode hex="0073"/>
+  <unicode hex="0053"/>
+  <outline>
+    <component base="part1" xScale="0.4964325904389049" xyScale="0.8680752750482639" yxScale="-0.8680752750482639" yScale="0.4964325904389049" xOffset="435" yOffset="603"/>
+    <component base="part1a" xScale="0.968386691218341" xOffset="624" yOffset="-321"/>
+    <component base="part1a" xScale="-0.9683866912183419" xyScale="-5.828670879282072e-16" yxScale="7.216449660063518e-16" yScale="-1.000000000000001" xOffset="208" yOffset="1727"/>
+    <component base="part1a" xScale="-7.216449660063518e-16" xyScale="0.9258583308505027" yxScale="-1.0000000000000018" yScale="-5.307328393567738e-16" xOffset="1136" yOffset="1257"/>
+    <component base="part1e" xOffset="28" yOffset="-9"/>
+    <component base="part1e" xScale="-1.010275163766356" yScale="-1.0406778901655092" xOffset="682" yOffset="1384"/>
+    <component base="part1a" xScale="9.08995101411847e-16" xyScale="-0.8944804798674857" yxScale="1.0000000000000029" yScale="1.099411875991064e-15" xOffset="-355" yOffset="107"/>
+    <component base="part5n"/>
+    <component base="part5o"/>
+    <component base="part5p"/>
+    <component base="part5q"/>
+    <component base="part1/2" xScale="0.8897188232589133" xyScale="-0.08004337235434196" yxScale="-0.000736077665984412" yScale="0.9700950830693048" xOffset="180" yOffset="-30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>b5743956a3956580155cf9b207d97a3a20bcc5ec5b7d64b90d13559a020562c62d8ce04de5073fe5b8218a711722c056b3201c70a74178c4d686cb6fbd9f12f7</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="1163"/>
+  <unicode hex="006B"/>
+  <unicode hex="004B"/>
+  <outline>
+    <component base="part1" xOffset="164"/>
+    <component base="part1" xOffset="164" yOffset="624"/>
+    <component base="part1" xOffset="164" yOffset="1216"/>
+    <component base="part2" yScale="1.0345948719307194" xOffset="164" yOffset="-5"/>
+    <component base="part2" yScale="0.9656143603408553" xOffset="164" yOffset="629"/>
+    <component base="part4a" xScale="5.194479294616589e-17" xyScale="-0.9742681310171458" yxScale="0.9357542006247606" yScale="5.408274556068773e-17" xOffset="328" yOffset="780"/>
+    <component base="part1" xScale="0.6354393609063843" xyScale="-0.6362015704184636" yxScale="0.6916251714641787" yScale="0.6907965609907135" xOffset="923" yOffset="1275"/>
+    <component base="part1" xScale="0.6732496961439234" xyScale="0.6732496961439233" yxScale="-0.689757919883203" yScale="0.689757919883203" xOffset="1078" yOffset="-18"/>
+    <component base="K.lowerdiagonal" xOffset="472" yOffset="86"/>
+    <component base="K.upperdiagonal" xOffset="472" yOffset="699"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>0dd69d1c82062dc7726b46ed1ee6786208ef62394c7c344139ba2fe1d9d9f624b6c185e76fb5329a9ae1a2cfe14c016cdbaac3dce28e5f8bd6dca79e725cff46</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

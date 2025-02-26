@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="1066"/>
+  <unicode hex="00DE"/>
+  <unicode hex="00FE"/>
+  <outline>
+    <contour>
+      <point x="352" y="226" type="line"/>
+      <point x="484" y="226" type="line"/>
+      <point x="702" y="226"/>
+      <point x="989" y="482"/>
+      <point x="989" y="694" type="qcurve"/>
+      <point x="989" y="905"/>
+      <point x="702" y="1161"/>
+      <point x="484" y="1161" type="qcurve"/>
+      <point x="354" y="1161" type="line"/>
+      <point x="354" y="1006" type="line"/>
+      <point x="476" y="1006" type="line"/>
+      <point x="631" y="1006"/>
+      <point x="822" y="856"/>
+      <point x="822" y="693" type="qcurve"/>
+      <point x="822" y="530"/>
+      <point x="631" y="364"/>
+      <point x="476" y="364" type="qcurve"/>
+      <point x="352" y="364" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="0" type="line"/>
+      <point x="383" y="0" type="line"/>
+      <point x="383" y="1400" type="line"/>
+      <point x="220" y="1400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>1e95b647be97bbe538f89812b0b0e5011bcea26efb4b5d68ec04affefd9cc98c3cceb9db9ad558e1361f3c20fda7e5a55a491792e18aea3658b33f25413b66ee</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
