@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="2">
+  <advance width="1168"/>
+  <unicode hex="0058"/>
+  <outline>
+    <component base="part1" xScale="0.7639737837047297" xyScale="0.5703399537122583" yxScale="-0.5982260585157301" yScale="0.8013273880959864" xOffset="134" yOffset="1168"/>
+    <component base="part1" xScale="-0.7639737837047292" xyScale="-0.5703399537122583" yxScale="0.5982260585157295" yScale="-0.8013273880959855" xOffset="1059" yOffset="203"/>
+    <component base="part1" xScale="0.7171406407225531" xyScale="-0.5435036682013108" yxScale="0.6040097004787984" yScale="0.7969769643644119" xOffset="15" yOffset="73"/>
+    <component base="part1" xScale="-0.7171406407225539" xyScale="0.5435036682013121" yxScale="-0.6040097004787999" yScale="-0.7969769643644131" xOffset="1112" yOffset="1295"/>
+    <component base="part1g" xOffset="487" yOffset="580"/>
+    <component base="part2l" xOffset="134"/>
+    <component base="part2m"/>
+    <component base="part2n"/>
+    <component base="prt2o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>dbbcce83d2fc01825a0aa42654f5eaaf437b79b463eaf873936ad8db3dfedc52a61bed5e74e7736319adcd412e481131cda20acb03249152d5694b6b661b6ae0</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

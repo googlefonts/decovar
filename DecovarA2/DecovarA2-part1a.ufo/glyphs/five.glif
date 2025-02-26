@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five" format="2">
+  <advance width="819"/>
+  <unicode hex="0035"/>
+  <outline>
+    <component base="part1" xOffset="82" yOffset="1216"/>
+    <component base="part1" xOffset="510" yOffset="1216"/>
+    <component base="part1" xOffset="82" yOffset="760"/>
+    <component base="part3g" xScale="0.8068222267455396" xOffset="47"/>
+    <component base="part1" xScale="0.5332787619170355" xyScale="-0.8269733978331498" yxScale="0.8404135064646935" yScale="0.5419456966816122" xOffset="62" yOffset="55"/>
+    <component base="part1a" xOffset="578" yOffset="-122"/>
+    <component base="part5zd" xOffset="-35"/>
+    <component base="part2" yScale="0.6662619268926568" xOffset="82" yOffset="811"/>
+    <component base="part5ze"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>4f42f73e504533538ffd454aa677b09095e5c2dbe614cccd2b498fcfd1eb582375c7eb6d980107375e301fe1f09fb98c0fb2a517bd819bcf3662d57d8d94cef4</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

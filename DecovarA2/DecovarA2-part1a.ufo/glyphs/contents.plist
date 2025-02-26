@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>.notdef</key>
-    <string>_notdef.glif</string>
     <key>A</key>
     <string>A_.glif</string>
     <key>B</key>
@@ -58,8 +56,6 @@
     <string>S_.glif</string>
     <key>T</key>
     <string>T_.glif</string>
-    <key>Thorn</key>
-    <string>T_horn.glif</string>
     <key>U</key>
     <string>U_.glif</string>
     <key>V</key>
@@ -76,10 +72,6 @@
     <string>a.glif</string>
     <key>ampersand</key>
     <string>ampersand.glif</string>
-    <key>asterisk</key>
-    <string>asterisk.glif</string>
-    <key>at</key>
-    <string>at.glif</string>
     <key>b</key>
     <string>b.glif</string>
     <key>c</key>
@@ -90,16 +82,12 @@
     <string>comma.glif</string>
     <key>d</key>
     <string>d.glif</string>
-    <key>divide</key>
-    <string>divide.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
     <key>e</key>
     <string>e.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
-    <key>equal</key>
-    <string>equal.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
     <key>f</key>
@@ -124,14 +112,8 @@
     <string>l.glif</string>
     <key>less</key>
     <string>less.glif</string>
-    <key>logicalnot</key>
-    <string>logicalnot.glif</string>
     <key>m</key>
     <string>m.glif</string>
-    <key>minus</key>
-    <string>minus.glif</string>
-    <key>multiply</key>
-    <string>multiply.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>nine</key>
@@ -144,8 +126,6 @@
     <string>one.glif</string>
     <key>p</key>
     <string>p.glif</string>
-    <key>parenleft</key>
-    <string>parenleft.glif</string>
     <key>part1</key>
     <string>part1.glif</string>
     <key>part1/2</key>
@@ -348,12 +328,8 @@
     <string>prt2o.glif</string>
     <key>q</key>
     <string>q.glif</string>
-    <key>question</key>
-    <string>question.glif</string>
     <key>quotedbl</key>
     <string>quotedbl.glif</string>
-    <key>quoteright</key>
-    <string>quoteright.glif</string>
     <key>quotesingle</key>
     <string>quotesingle.glif</string>
     <key>r</key>
@@ -370,8 +346,6 @@
     <string>slash.glif</string>
     <key>space</key>
     <string>space.glif</string>
-    <key>sterling</key>
-    <string>sterling.glif</string>
     <key>t</key>
     <string>t.glif</string>
     <key>three</key>
@@ -380,8 +354,6 @@
     <string>two.glif</string>
     <key>u</key>
     <string>u.glif</string>
-    <key>underscore</key>
-    <string>underscore.glif</string>
     <key>v</key>
     <string>v.glif</string>
     <key>w</key>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="z" format="2">
+  <advance width="1052"/>
+  <unicode hex="007A"/>
+  <anchor x="578.0" y="960.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="150" y="642" type="line"/>
+      <point x="171" y="642" type="line"/>
+      <point x="171" y="960" type="line"/>
+      <point x="150" y="960" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="941" type="line"/>
+      <point x="909" y="941" type="line"/>
+      <point x="923" y="941" type="line"/>
+      <point x="931" y="941" type="line"/>
+      <point x="931" y="960" type="line"/>
+      <point x="160" y="960" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="947" y="0" type="line"/>
+      <point x="947" y="19" type="line"/>
+      <point x="115" y="19" type="line"/>
+      <point x="101" y="19" type="line"/>
+      <point x="94" y="19" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="8" type="line"/>
+      <point x="931" y="941" type="line"/>
+      <point x="912" y="952" type="line"/>
+      <point x="94" y="19" type="line"/>
+    </contour>
+    <contour>
+      <point x="937" y="0" type="line"/>
+      <point x="958" y="0" type="line"/>
+      <point x="958" y="318" type="line"/>
+      <point x="937" y="318" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>floqMemesList</key>
+      <array/>
+    </dict>
+  </lib>
+</glyph>

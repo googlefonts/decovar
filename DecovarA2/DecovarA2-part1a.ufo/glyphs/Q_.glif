@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="1640"/>
+  <unicode hex="0051"/>
+  <outline>
+    <component base="part1a" xScale="-1.0313530047645625" xyScale="-1.2490009027033009e-16" yxScale="1.2881608339566992e-16" yScale="-1.000000000000001" xOffset="251" yOffset="1368"/>
+    <component base="part1a" xScale="1.0368887641428661" xyScale="-1.130700402275845e-16" yxScale="3.885780586188049e-16" yScale="1.0000000000000018" xOffset="1389"/>
+    <component base="part1a" xScale="0" xyScale="0.9530957999579678" yxScale="-1.0737024723653439" yScale="0" xOffset="1555" yOffset="1247"/>
+    <component base="part1a" xScale="1.8041124150158794e-16" xyScale="-0.9054027891411537" yxScale="1.0737024723653432" yScale="1.318334189370935e-16" xOffset="86" yOffset="120"/>
+    <component base="part5b" xOffset="85"/>
+    <component base="part5c" xOffset="86"/>
+    <component base="part1" xOffset="738" yOffset="-414"/>
+    <component base="part5b" xScale="-1" xOffset="1556"/>
+    <component base="part5c" xScale="-1" xOffset="1555"/>
+    <component base="part2d" xOffset="738" yOffset="-28"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>7f620fb3deeea0356fb6cd61c3ed984ba5d248300cef4b414dcbb0008dfd1999495741922d756945dfcc2613abbd25f17210b5297e3fdf14e8fa9dbcfe1434ec</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

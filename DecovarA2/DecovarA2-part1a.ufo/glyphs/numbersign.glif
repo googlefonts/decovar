@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="1113"/>
+  <unicode hex="0023"/>
+  <outline>
+    <component base="part1" xScale="0.8515288599205169" yScale="1.0221527827124999" xOffset="291" yOffset="-19"/>
+    <component base="part1" xScale="0.8515288599205169" yScale="1.0221527827124999" xOffset="291" yOffset="313"/>
+    <component base="part1" xScale="0.8515288599205169" yScale="1.0221527827124999" xOffset="291" yOffset="1222"/>
+    <component base="part2" xScale="0.8515288599205169" yScale="0.38774431338500964" xOffset="291" yOffset="77"/>
+    <component base="part2" xScale="0.8515288599205169" yScale="0.9273136213592531" xOffset="291" yOffset="327"/>
+    <component base="part1" xScale="0.8515288599205169" yScale="1.0221527827124999" xOffset="291" yOffset="890"/>
+    <component base="part2" xScale="0.8515288599205169" yScale="0.38774431338500964" xOffset="291" yOffset="986"/>
+    <component base="part3" xScale="0.3086273121111467" yScale="1.0213083599012927" xOffset="430" yOffset="313"/>
+    <component base="part3" xScale="0.3086273121111467" yScale="1.0213083599012927" xOffset="430" yOffset="890"/>
+    <component base="part3" xScale="0.32823172685110685" yScale="1.0213083599012927" xOffset="22" yOffset="313"/>
+    <component base="part3" xScale="0.32823172685110685" yScale="1.0213083599012927" xOffset="22" yOffset="890"/>
+    <component base="part1" xScale="0.8515288599205169" yScale="1.0221527827124999" xOffset="683" yOffset="-19"/>
+    <component base="part1" xScale="0.8515288599205169" yScale="1.0221527827124999" xOffset="683" yOffset="313"/>
+    <component base="part1" xScale="0.8515288599205169" yScale="1.0221527827124999" xOffset="683" yOffset="1222"/>
+    <component base="part2" xScale="0.8515288599205169" yScale="0.38774431338500964" xOffset="683" yOffset="77"/>
+    <component base="part2" xScale="0.8515288599205169" yScale="0.9273136213592531" xOffset="683" yOffset="327"/>
+    <component base="part1" xScale="0.8515288599205169" yScale="1.0221527827124999" xOffset="683" yOffset="890"/>
+    <component base="part2" xScale="0.8515288599205169" yScale="0.38774431338500964" xOffset="683" yOffset="986"/>
+    <component base="part3" xScale="0.32843752168514473" yScale="1.0213083599012927" xOffset="822" yOffset="313"/>
+    <component base="part3" xScale="0.32843752168514473" yScale="1.0213083599012927" xOffset="822" yOffset="890"/>
+  </outline>
+</glyph>

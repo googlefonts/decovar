@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="1644"/>
+  <unicode hex="004D"/>
+  <outline>
+    <component base="part4" xOffset="699"/>
+    <component base="part1" xOffset="164"/>
+    <component base="part2" xOffset="164"/>
+    <component base="part1" xOffset="1316"/>
+    <component base="part2" xOffset="1316"/>
+    <component base="part1" xOffset="164" yOffset="608"/>
+    <component base="part1" xOffset="1316" yOffset="608"/>
+    <component base="part2e"/>
+    <component base="part1/4" xOffset="164" yOffset="1292"/>
+    <component base="part1/4" xOffset="1398" yOffset="1292"/>
+    <component base="part2f" xOffset="1316"/>
+    <component base="part1" xScale="0.8664142770848874" xyScale="0.4062576912748504" yxScale="-0.40754388863720487" yScale="0.8691573137875179" xOffset="527" yOffset="512"/>
+    <component base="part1" xScale="0.8168583419905234" xyScale="-0.3827665412473439" yxScale="0.4087657031053162" yScale="0.8723428997035312" xOffset="980" yOffset="576"/>
+    <component base="M.leftdiagonal" xOffset="246"/>
+    <component base="M.rightdiagonal" xOffset="1041"/>
+    <component base="M.botleftdia"/>
+    <component base="M.botrightdia"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>3793caa5f69588146d2dd3dfb83fd80c1680c0e14c28d8d6c9ace77d36b82b77b9cd44104c907ac906cf2820dd597e33839980d0d9950f933dbf9852d3ac7143</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

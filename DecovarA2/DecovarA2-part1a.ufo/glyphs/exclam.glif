@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="528"/>
+  <unicode hex="0021"/>
+  <outline>
+    <component base="part1/4" xOffset="225" yOffset="152"/>
+    <component base="part1/4" xOffset="225"/>
+    <component base="part1/4" xOffset="143" yOffset="76"/>
+    <component base="part1/4" xOffset="307" yOffset="76"/>
+    <component base="part1/4" xOffset="225" yOffset="76"/>
+    <component base="part1/4" xOffset="143" yOffset="152"/>
+    <component base="part1/4" xOffset="307" yOffset="152"/>
+    <component base="part1/4" xOffset="143"/>
+    <component base="part1/4" xOffset="307"/>
+    <component base="part1" xOffset="182" yOffset="1348"/>
+    <component base="part2" yScale="2.0403983029032635" xOffset="182" yOffset="107"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w528l264-30l430+136l264+304l98+136|l186+500l342+500l342+1500l186+1500|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

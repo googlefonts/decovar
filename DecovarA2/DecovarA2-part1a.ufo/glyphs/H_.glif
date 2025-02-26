@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="1476"/>
+  <unicode hex="0048"/>
+  <outline>
+    <component base="part1" xOffset="164"/>
+    <component base="part1" xOffset="164" yOffset="608"/>
+    <component base="part1" xOffset="164" yOffset="1216"/>
+    <component base="part2" xOffset="164"/>
+    <component base="part2" xOffset="164" yOffset="608"/>
+    <component base="part3" xOffset="328" yOffset="608"/>
+    <component base="part1" xOffset="1148"/>
+    <component base="part1" xOffset="1148" yOffset="608"/>
+    <component base="part1" xOffset="1148" yOffset="1216"/>
+    <component base="part2" xOffset="1148"/>
+    <component base="part2" xOffset="1148" yOffset="608"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>a036707fc94b16153ace7ce088bd6b4b8ef5720c5137360596cc904c77670418fe8f652cddec0385bb417a682de1ca3e042abccfaf4d90d182177ede620f4270</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

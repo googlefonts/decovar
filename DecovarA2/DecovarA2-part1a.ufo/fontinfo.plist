@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>1444</integer>
+    <key>capHeight</key>
+    <integer>1368</integer>
+    <key>descender</key>
+    <integer>-456</integer>
+    <key>familyName</key>
+    <string>DecovarA2</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>postscriptBlueValues</key>
+    <array/>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptOtherBlues</key>
+    <array/>
+    <key>postscriptStemSnapH</key>
+    <array/>
+    <key>postscriptStemSnapV</key>
+    <array/>
+    <key>styleName</key>
+    <string>part1a</string>
+    <key>unitsPerEm</key>
+    <integer>2048</integer>
+    <key>xHeight</key>
+    <integer>912</integer>
+  </dict>
+</plist>
