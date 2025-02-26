@@ -1,52 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b" format="2">
-  <advance width="1088"/>
+  <advance width="1021"/>
   <unicode hex="0062"/>
   <outline>
-    <contour>
-      <point x="630" y="-7" type="qcurve" smooth="yes"/>
-      <point x="798" y="-7"/>
-      <point x="1026" y="251"/>
-      <point x="1026" y="493" type="qcurve" smooth="yes"/>
-      <point x="1026" y="739"/>
-      <point x="782" y="977"/>
-      <point x="626" y="977" type="qcurve" smooth="yes"/>
-      <point x="483" y="977"/>
-      <point x="277" y="834"/>
-      <point x="251" y="713" type="qcurve"/>
-      <point x="250" y="713" type="line"/>
-      <point x="250" y="1430" type="line"/>
-      <point x="230" y="1430" type="line"/>
-      <point x="230" y="0" type="line"/>
-      <point x="246" y="0" type="line"/>
-      <point x="246" y="231" type="line"/>
-      <point x="248" y="231" type="line"/>
-      <point x="276" y="142"/>
-      <point x="463" y="-7"/>
-    </contour>
-    <contour>
-      <point x="627" y="11" type="qcurve" smooth="yes"/>
-      <point x="448" y="11"/>
-      <point x="250" y="204"/>
-      <point x="250" y="318" type="qcurve" smooth="yes"/>
-      <point x="250" y="454"/>
-      <point x="250" y="538"/>
-      <point x="250" y="603" type="qcurve" smooth="yes"/>
-      <point x="251" y="768"/>
-      <point x="460" y="958"/>
-      <point x="623" y="958" type="qcurve" smooth="yes"/>
-      <point x="771" y="958"/>
-      <point x="1003" y="733"/>
-      <point x="1003" y="490" type="qcurve" smooth="yes"/>
-      <point x="1003" y="255"/>
-      <point x="788" y="11"/>
-    </contour>
-    <contour>
-      <point x="65" y="1410" type="line"/>
-      <point x="240" y="1410" type="line"/>
-      <point x="240" y="1430" type="line"/>
-      <point x="65" y="1430" type="line"/>
-    </contour>
+    <component base="part1m"/>
+    <component base="part5Lb"/>
+    <component base="part5Lb" yScale="-1" yOffset="940"/>
+    <component base="part5.La" xScale="-1" yScale="-1" xOffset="1036" yOffset="981"/>
+    <component base="part1a" xScale="1.0094488871518628" xyScale="1.2490009027033009e-16" yxScale="-1.2608025712855177e-16" yScale="1.000000000000001" xOffset="779" yOffset="-194"/>
+    <component base="part4Lr"/>
+    <component base="part2Lr"/>
+    <component base="part5Lg"/>
+    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="150" yOffset="1299"/>
+    <component base="part2z"/>
   </outline>
   <lib>
     <dict>

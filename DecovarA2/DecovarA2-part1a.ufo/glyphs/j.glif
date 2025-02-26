@@ -1,53 +1,72 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="j" format="2">
-  <advance width="514"/>
+  <advance width="498"/>
   <unicode hex="006A"/>
+  <anchor x="591.0" y="960.0" name="top"/>
   <outline>
     <contour>
-      <point x="70" y="-362" type="line"/>
-      <point x="77" y="-356" type="line" smooth="yes"/>
-      <point x="294" y="-163"/>
-      <point x="314" y="-143"/>
-      <point x="314" y="-123" type="qcurve" smooth="yes"/>
-      <point x="314" y="960" type="line"/>
-      <point x="293" y="960" type="line"/>
-      <point x="293" y="-138" type="line"/>
-      <point x="70" y="-336" type="line"/>
+      <point x="168" y="-105" type="qcurve"/>
+      <point x="170" y="-71"/>
+      <point x="170" y="-71"/>
+      <point x="208" y="-71" type="qcurve"/>
+      <point x="249" y="-71"/>
+      <point x="249" y="-71"/>
+      <point x="248" y="-105" type="qcurve"/>
+      <point x="242" y="-143"/>
+      <point x="242" y="-143"/>
+      <point x="199" y="-143" type="qcurve"/>
+      <point x="159" y="-143"/>
+      <point x="159" y="-143"/>
     </contour>
     <contour>
-      <point x="45" y="-369" type="qcurve" smooth="yes"/>
-      <point x="64" y="-369"/>
-      <point x="90" y="-345"/>
-      <point x="90" y="-325" type="qcurve" smooth="yes"/>
-      <point x="90" y="-305"/>
-      <point x="65" y="-280"/>
-      <point x="45" y="-280" type="qcurve" smooth="yes"/>
-      <point x="23" y="-280"/>
-      <point x="0" y="-305"/>
-      <point x="0" y="-325" type="qcurve" smooth="yes"/>
-      <point x="0" y="-345"/>
-      <point x="25" y="-369"/>
+      <point x="248" y="-105" type="qcurve"/>
+      <point x="249" y="-71"/>
+      <point x="249" y="-71"/>
+      <point x="287" y="-71" type="qcurve"/>
+      <point x="326" y="-71"/>
+      <point x="326" y="-71"/>
+      <point x="326" y="-105" type="qcurve"/>
+      <point x="322" y="-143"/>
+      <point x="322" y="-143"/>
+      <point x="282" y="-143" type="qcurve"/>
+      <point x="242" y="-143"/>
+      <point x="242" y="-143"/>
     </contour>
     <contour>
-      <point x="78" y="940" type="line"/>
-      <point x="304" y="940" type="line"/>
-      <point x="304" y="960" type="line"/>
-      <point x="78" y="960" type="line"/>
+      <point x="147" y="-180" type="qcurve"/>
+      <point x="159" y="-143"/>
+      <point x="159" y="-143"/>
+      <point x="199" y="-143" type="qcurve"/>
+      <point x="242" y="-143"/>
+      <point x="242" y="-143"/>
+      <point x="234" y="-180" type="qcurve"/>
+      <point x="219" y="-216"/>
+      <point x="219" y="-216"/>
+      <point x="174" y="-216" type="qcurve"/>
+      <point x="131" y="-216"/>
+      <point x="131" y="-216"/>
     </contour>
     <contour>
-      <point x="305" y="1252" type="qcurve" smooth="yes"/>
-      <point x="325" y="1252"/>
-      <point x="349" y="1279"/>
-      <point x="349" y="1300" type="qcurve" smooth="yes"/>
-      <point x="349" y="1321"/>
-      <point x="325" y="1345"/>
-      <point x="305" y="1345" type="qcurve" smooth="yes"/>
-      <point x="285" y="1345"/>
-      <point x="260" y="1321"/>
-      <point x="260" y="1300" type="qcurve" smooth="yes"/>
-      <point x="260" y="1280"/>
-      <point x="285" y="1252"/>
+      <point x="234" y="-180" type="qcurve"/>
+      <point x="242" y="-143"/>
+      <point x="242" y="-143"/>
+      <point x="282" y="-143" type="qcurve"/>
+      <point x="322" y="-143"/>
+      <point x="322" y="-143"/>
+      <point x="315" y="-180" type="qcurve"/>
+      <point x="305" y="-216"/>
+      <point x="305" y="-216"/>
+      <point x="261" y="-216" type="qcurve"/>
+      <point x="219" y="-216"/>
+      <point x="219" y="-216"/>
     </contour>
+    <component base="part2" xScale="0.9526183812544564" yScale="1.8437760563585281" xOffset="170" yOffset="-352"/>
+    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="170" yOffset="768"/>
+    <component base="part1/4" xOffset="208" yOffset="1186"/>
+    <component base="part1/4" xOffset="208" yOffset="1034"/>
+    <component base="part1/4" xOffset="126" yOffset="1110"/>
+    <component base="part1/4" xOffset="290" yOffset="1110"/>
+    <component base="part1/4" xOffset="208" yOffset="1110"/>
   </outline>
   <lib>
     <dict>

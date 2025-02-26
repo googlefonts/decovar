@@ -1,60 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="p" format="2">
-  <advance width="1089"/>
+  <advance width="1021"/>
   <unicode hex="0070"/>
   <outline>
-    <contour>
-      <point x="230" y="-360" type="line"/>
-      <point x="251" y="-360" type="line"/>
-      <point x="251" y="229" type="line"/>
-      <point x="253" y="229" type="line"/>
-      <point x="270" y="154"/>
-      <point x="462" y="-7"/>
-      <point x="633" y="-7" type="qcurve" smooth="yes"/>
-      <point x="801" y="-7"/>
-      <point x="1027" y="256"/>
-      <point x="1027" y="496" type="qcurve" smooth="yes"/>
-      <point x="1027" y="738"/>
-      <point x="790" y="977"/>
-      <point x="622" y="977" type="qcurve" smooth="yes"/>
-      <point x="485" y="977"/>
-      <point x="278" y="831"/>
-      <point x="253" y="709" type="qcurve"/>
-      <point x="251" y="709" type="line"/>
-      <point x="251" y="960" type="line"/>
-      <point x="230" y="960" type="line"/>
-    </contour>
-    <contour>
-      <point x="65" y="-360" type="line"/>
-      <point x="416" y="-360" type="line"/>
-      <point x="416" y="-340" type="line"/>
-      <point x="246" y="-340" type="line"/>
-      <point x="235" y="-340" type="line"/>
-      <point x="65" y="-340" type="line"/>
-    </contour>
-    <contour>
-      <point x="632" y="11" type="qcurve" smooth="yes"/>
-      <point x="455" y="10"/>
-      <point x="251" y="214"/>
-      <point x="251" y="326" type="qcurve" smooth="yes"/>
-      <point x="251" y="359"/>
-      <point x="251" y="467"/>
-      <point x="251.0" y="574" type="qcurve" smooth="yes"/>
-      <point x="251" y="756.0"/>
-      <point x="463.0" y="958.0"/>
-      <point x="620" y="958" type="qcurve" smooth="yes"/>
-      <point x="780" y="958"/>
-      <point x="1004" y="729"/>
-      <point x="1004" y="495" type="qcurve" smooth="yes"/>
-      <point x="1004" y="263"/>
-      <point x="792" y="12"/>
-    </contour>
-    <contour>
-      <point x="65" y="940" type="line"/>
-      <point x="240" y="940" type="line"/>
-      <point x="240" y="960" type="line"/>
-      <point x="65" y="960" type="line"/>
-    </contour>
+    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="150" yOffset="-443"/>
+    <component base="part1/2" xScale="0.9560276387123073" yScale="0.9477996362226188" xOffset="150" yOffset="768"/>
+    <component base="part1m"/>
+    <component base="part5Lb"/>
+    <component base="part5Lb" yScale="-1" yOffset="940"/>
+    <component base="part5.La" xScale="-1" yScale="-1" xOffset="1036" yOffset="981"/>
+    <component base="part1a" xScale="1.0094488871518628" xyScale="1.2490009027033009e-16" yxScale="-1.2608025712855177e-16" yScale="1.000000000000001" xOffset="779" yOffset="-194"/>
+    <component base="part4Lr"/>
+    <component base="part2Lr"/>
+    <component base="part2Ls"/>
+    <component base="part5Lg"/>
   </outline>
   <lib>
     <dict>

@@ -4,92 +4,14 @@
   <unicode hex="006E"/>
   <anchor x="591.0" y="960.0" name="top"/>
   <outline>
-    <contour>
-      <point x="821" y="646" type="qcurve"/>
-      <point x="784" y="646"/>
-      <point x="784" y="646"/>
-      <point x="784" y="675" type="qcurve"/>
-      <point x="784" y="737"/>
-      <point x="696" y="820"/>
-      <point x="614" y="820" type="qcurve"/>
-      <point x="577" y="820"/>
-      <point x="577" y="820"/>
-      <point x="577" y="855" type="qcurve"/>
-      <point x="577" y="891"/>
-      <point x="577" y="891"/>
-      <point x="614" y="891" type="qcurve"/>
-      <point x="722" y="891"/>
-      <point x="862" y="769"/>
-      <point x="862" y="685" type="qcurve"/>
-      <point x="862" y="646"/>
-      <point x="862" y="646"/>
-    </contour>
-    <contour>
-      <point x="902" y="646" type="qcurve"/>
-      <point x="862" y="646"/>
-      <point x="862" y="646"/>
-      <point x="862" y="685" type="qcurve"/>
-      <point x="862" y="769"/>
-      <point x="722" y="891"/>
-      <point x="614" y="891" type="qcurve"/>
-      <point x="577" y="891"/>
-      <point x="577" y="891"/>
-      <point x="577" y="927" type="qcurve"/>
-      <point x="577" y="963"/>
-      <point x="577" y="963"/>
-      <point x="614" y="963" type="qcurve"/>
-      <point x="738" y="963"/>
-      <point x="934" y="806"/>
-      <point x="939" y="689" type="qcurve"/>
-      <point x="940" y="646"/>
-      <point x="940" y="646"/>
-    </contour>
-    <contour>
-      <point x="306" y="712" type="qcurve"/>
-      <point x="306" y="751"/>
-      <point x="306" y="751"/>
-      <point x="331" y="776" type="qcurve"/>
-      <point x="370" y="811"/>
-      <point x="478" y="880"/>
-      <point x="539" y="888" type="qcurve"/>
-      <point x="577" y="891"/>
-      <point x="577" y="891"/>
-      <point x="577" y="855" type="qcurve"/>
-      <point x="577" y="820"/>
-      <point x="577" y="820"/>
-      <point x="540" y="817" type="qcurve"/>
-      <point x="484" y="807"/>
-      <point x="362" y="727"/>
-      <point x="324" y="690" type="qcurve"/>
-      <point x="306" y="674"/>
-      <point x="306" y="674"/>
-    </contour>
-    <contour>
-      <point x="306" y="797" type="qcurve"/>
-      <point x="306" y="839"/>
-      <point x="306" y="839"/>
-      <point x="330" y="859" type="qcurve"/>
-      <point x="367" y="894"/>
-      <point x="467" y="951"/>
-      <point x="539" y="961" type="qcurve"/>
-      <point x="577" y="963"/>
-      <point x="577" y="963"/>
-      <point x="577" y="927" type="qcurve"/>
-      <point x="577" y="891"/>
-      <point x="577" y="891"/>
-      <point x="539" y="888" type="qcurve"/>
-      <point x="478" y="880"/>
-      <point x="370" y="811"/>
-      <point x="331" y="776" type="qcurve"/>
-      <point x="306" y="751"/>
-      <point x="306" y="751"/>
-    </contour>
     <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="150"/>
     <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="784"/>
     <component base="part2" xScale="0.9513618792085717" yScale="1.1008584113059086" xOffset="784" yOffset="-23"/>
     <component base="part1/2" xScale="0.9560276387123073" yScale="0.9477996362226188" xOffset="150" yOffset="768"/>
     <component base="part2y"/>
     <component base="part1m"/>
+    <component base="part5Lb"/>
+    <component base="part5Lc"/>
   </outline>
   <lib>
     <dict>

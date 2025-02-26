@@ -172,6 +172,10 @@
     <string>part1zn.glif</string>
     <key>part2</key>
     <string>part2.glif</string>
+    <key>part2Lr</key>
+    <string>part2L_r.glif</string>
+    <key>part2Ls</key>
+    <string>part2L_s.glif</string>
     <key>part2a</key>
     <string>part2a.glif</string>
     <key>part2b</key>
@@ -220,6 +224,8 @@
     <string>part2x.glif</string>
     <key>part2y</key>
     <string>part2y.glif</string>
+    <key>part2z</key>
+    <string>part2z.glif</string>
     <key>part3</key>
     <string>part3.glif</string>
     <key>part3a</key>
@@ -242,6 +248,8 @@
     <string>part3j.glif</string>
     <key>part4</key>
     <string>part4.glif</string>
+    <key>part4Lr</key>
+    <string>part4L_r.glif</string>
     <key>part4a</key>
     <string>part4a.glif</string>
     <key>part4b</key>
@@ -258,6 +266,14 @@
     <string>part5.L_.glif</string>
     <key>part5.La</key>
     <string>part5.L_a.glif</string>
+    <key>part5Lb</key>
+    <string>part5L_b.glif</string>
+    <key>part5Lc</key>
+    <string>part5L_c.glif</string>
+    <key>part5Ld</key>
+    <string>part5L_d.glif</string>
+    <key>part5Lg</key>
+    <string>part5L_g.glif</string>
     <key>part5a</key>
     <string>part5a.glif</string>
     <key>part5b</key>

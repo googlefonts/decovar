@@ -1,43 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="i" format="2">
-  <advance width="584"/>
+  <advance width="498"/>
   <unicode hex="0069"/>
-  <anchor x="299" y="0" name="ogonek"/>
+  <anchor x="591.0" y="960.0" name="top"/>
   <outline>
-    <contour>
-      <point x="68" y="0" type="line"/>
-      <point x="519" y="0" type="line"/>
-      <point x="519" y="20" type="line"/>
-      <point x="298" y="20" type="line"/>
-      <point x="293" y="20" type="line"/>
-      <point x="68" y="20" type="line"/>
-    </contour>
-    <contour>
-      <point x="68" y="940" type="line"/>
-      <point x="293" y="940" type="line"/>
-      <point x="293" y="960" type="line"/>
-      <point x="68" y="960" type="line"/>
-    </contour>
-    <contour>
-      <point x="295" y="1252" type="qcurve" smooth="yes"/>
-      <point x="314" y="1252"/>
-      <point x="339" y="1279"/>
-      <point x="339" y="1300" type="qcurve" smooth="yes"/>
-      <point x="339" y="1321"/>
-      <point x="314" y="1345"/>
-      <point x="295" y="1345" type="qcurve" smooth="yes"/>
-      <point x="274" y="1345"/>
-      <point x="250" y="1321"/>
-      <point x="250" y="1300" type="qcurve" smooth="yes"/>
-      <point x="250" y="1281"/>
-      <point x="274" y="1252"/>
-    </contour>
-    <contour>
-      <point x="283" y="0" type="line"/>
-      <point x="304" y="0" type="line"/>
-      <point x="304" y="960" type="line"/>
-      <point x="283" y="960" type="line"/>
-    </contour>
+    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="170"/>
+    <component base="part2" xScale="0.9526183812544564" yScale="1.369479969206971" xOffset="170" yOffset="-64"/>
+    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="170" yOffset="768"/>
+    <component base="part1/4" xOffset="208" yOffset="1186"/>
+    <component base="part1/4" xOffset="208" yOffset="1034"/>
+    <component base="part1/4" xOffset="126" yOffset="1110"/>
+    <component base="part1/4" xOffset="290" yOffset="1110"/>
+    <component base="part1/4" xOffset="208" yOffset="1110"/>
   </outline>
   <lib>
     <dict>
