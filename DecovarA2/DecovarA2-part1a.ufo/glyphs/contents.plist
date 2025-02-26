@@ -250,6 +250,10 @@
     <string>part4e.glif</string>
     <key>part5</key>
     <string>part5.glif</string>
+    <key>part5.L</key>
+    <string>part5.L_.glif</string>
+    <key>part5.La</key>
+    <string>part5.L_a.glif</string>
     <key>part5a</key>
     <string>part5a.glif</string>
     <key>part5b</key>
@@ -320,6 +324,10 @@
     <string>part5zh.glif</string>
     <key>part5zi</key>
     <string>part5zi.glif</string>
+    <key>part5zj</key>
+    <string>part5zj.glif</string>
+    <key>part5zk</key>
+    <string>part5zk.glif</string>
     <key>period</key>
     <string>period.glif</string>
     <key>plus</key>

@@ -108,7 +108,6 @@
       <string>l</string>
       <string>m</string>
       <string>n</string>
-      <string>o</string>
       <string>p</string>
       <string>q</string>
       <string>r</string>
@@ -338,6 +337,11 @@
       <string>part1zl</string>
       <string>part1zm</string>
       <string>part1zn</string>
+      <string>part5zj</string>
+      <string>part5zk</string>
+      <string>part5.L</string>
+      <string>o</string>
+      <string>part5.La</string>
     </array>
   </dict>
 </plist>
