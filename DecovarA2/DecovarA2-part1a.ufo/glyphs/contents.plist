@@ -200,6 +200,10 @@
     <string>part2k.glif</string>
     <key>part2l</key>
     <string>part2l.glif</string>
+    <key>part2lv</key>
+    <string>part2lv.glif</string>
+    <key>part2lw</key>
+    <string>part2lw.glif</string>
     <key>part2m</key>
     <string>part2m.glif</string>
     <key>part2n</key>
@@ -260,6 +264,8 @@
     <string>part4d.glif</string>
     <key>part4e</key>
     <string>part4e.glif</string>
+    <key>part4f</key>
+    <string>part4f.glif</string>
     <key>part5</key>
     <string>part5.glif</string>
     <key>part5.L</key>
@@ -298,6 +304,8 @@
     <string>part5k.glif</string>
     <key>part5l</key>
     <string>part5l.glif</string>
+    <key>part5lh</key>
+    <string>part5lh.glif</string>
     <key>part5m</key>
     <string>part5m.glif</string>
     <key>part5n</key>

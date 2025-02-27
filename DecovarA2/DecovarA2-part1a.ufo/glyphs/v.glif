@@ -3,32 +3,11 @@
   <advance width="1062"/>
   <unicode hex="0076"/>
   <outline>
-    <contour>
-      <point x="520" y="0" type="line"/>
-      <point x="546" y="0" type="line"/>
-      <point x="901" y="960" type="line"/>
-      <point x="878" y="960" type="line"/>
-      <point x="534" y="28" type="line"/>
-      <point x="532" y="28" type="line"/>
-      <point x="185" y="960" type="line"/>
-      <point x="161" y="960" type="line"/>
-    </contour>
-    <contour>
-      <point x="0" y="940" type="line"/>
-      <point x="175" y="940" type="line"/>
-      <point x="187" y="940" type="line"/>
-      <point x="362" y="940" type="line"/>
-      <point x="362" y="960" type="line"/>
-      <point x="0" y="960" type="line"/>
-    </contour>
-    <contour>
-      <point x="887" y="940" type="line"/>
-      <point x="1062" y="940" type="line"/>
-      <point x="1062" y="960" type="line"/>
-      <point x="701" y="960" type="line"/>
-      <point x="701" y="940" type="line"/>
-      <point x="877" y="940" type="line"/>
-    </contour>
+    <component base="part1" xScale="-0.8237347944831784" xyScale="0.37370958815997507" yxScale="-0.40418861992503174" yScale="-0.8909170123402361" xOffset="1077" yOffset="861"/>
+    <component base="part1" xScale="-0.8725138491231668" xyScale="-0.37836280532996736" yxScale="0.3881365073203099" yScale="-0.895052244080725" xOffset="347" yOffset="927"/>
+    <component base="part4f"/>
+    <component base="part2lv"/>
+    <component base="part2lw"/>
   </outline>
   <lib>
     <dict>
