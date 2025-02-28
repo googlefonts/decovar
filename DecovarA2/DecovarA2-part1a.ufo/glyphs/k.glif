@@ -2,66 +2,56 @@
 <glyph name="k" format="2">
   <advance width="1056"/>
   <unicode hex="006B"/>
+  <anchor x="244.0" y="800.0" name="center"/>
   <outline>
     <contour>
-      <point x="870" y="0" type="line"/>
-      <point x="895" y="0" type="line"/>
-      <point x="779" y="304" type="line" smooth="yes"/>
-      <point x="735" y="420"/>
-      <point x="579" y="522"/>
-      <point x="490" y="522" type="qcurve" smooth="yes"/>
-      <point x="475" y="522" type="line"/>
-      <point x="243" y="522" type="line"/>
-      <point x="243" y="503" type="line"/>
-      <point x="473" y="503" type="line" smooth="yes"/>
-      <point x="572" y="503"/>
-      <point x="719" y="404"/>
-      <point x="759" y="297" type="qcurve" smooth="yes"/>
+      <point x="728" y="780" type="qcurve"/>
+      <point x="754" y="754"/>
+      <point x="754" y="754"/>
+      <point x="724" y="723" type="qcurve"/>
+      <point x="691" y="692"/>
+      <point x="578" y="593"/>
+      <point x="546" y="562" type="qcurve"/>
+      <point x="511" y="538"/>
+      <point x="511" y="538"/>
+      <point x="476" y="555" type="qcurve"/>
+      <point x="442" y="570"/>
+      <point x="442" y="570"/>
+      <point x="482" y="599" type="qcurve"/>
+      <point x="503" y="618"/>
+      <point x="641" y="742"/>
+      <point x="673" y="773" type="qcurve"/>
+      <point x="704" y="805"/>
+      <point x="704" y="805"/>
     </contour>
     <contour>
-      <point x="68" y="0" type="line"/>
-      <point x="424" y="0" type="line"/>
-      <point x="424" y="20" type="line"/>
-      <point x="248" y="20" type="line"/>
-      <point x="239" y="20" type="line"/>
-      <point x="68" y="20" type="line"/>
+      <point x="679" y="829" type="qcurve"/>
+      <point x="704" y="805"/>
+      <point x="704" y="805"/>
+      <point x="673" y="773" type="qcurve"/>
+      <point x="641" y="742"/>
+      <point x="503" y="618"/>
+      <point x="482" y="599" type="qcurve"/>
+      <point x="442" y="570"/>
+      <point x="442" y="570"/>
+      <point x="442" y="607" type="qcurve"/>
+      <point x="442" y="655"/>
+      <point x="442" y="655"/>
+      <point x="474" y="687" type="qcurve"/>
+      <point x="492" y="705"/>
+      <point x="593" y="791"/>
+      <point x="624" y="823" type="qcurve"/>
+      <point x="655" y="854"/>
+      <point x="655" y="854"/>
     </contour>
-    <contour>
-      <point x="233" y="0" type="line"/>
-      <point x="254" y="0" type="line"/>
-      <point x="254" y="506" type="line"/>
-      <point x="254" y="516" type="line"/>
-      <point x="254" y="1430" type="line"/>
-      <point x="233" y="1430" type="line"/>
-    </contour>
-    <contour>
-      <point x="790" y="940" type="line"/>
-      <point x="966" y="940" type="line"/>
-      <point x="966" y="960" type="line"/>
-      <point x="534" y="960" type="line"/>
-      <point x="534" y="940" type="line"/>
-      <point x="779" y="940" type="line"/>
-    </contour>
-    <contour>
-      <point x="671" y="0" type="line"/>
-      <point x="1056" y="0" type="line"/>
-      <point x="1056" y="20" type="line"/>
-      <point x="878" y="20" type="line"/>
-      <point x="871" y="20" type="line"/>
-      <point x="671" y="20" type="line"/>
-    </contour>
-    <contour>
-      <point x="68" y="1410" type="line"/>
-      <point x="244" y="1410" type="line"/>
-      <point x="244" y="1430" type="line"/>
-      <point x="68" y="1430" type="line"/>
-    </contour>
-    <contour>
-      <point x="466" y="512" type="line"/>
-      <point x="491" y="512" type="line"/>
-      <point x="804" y="952" type="line"/>
-      <point x="785" y="960" type="line"/>
-    </contour>
+    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="150"/>
+    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="150" yOffset="1299"/>
+    <component base="part2" xScale="0.9519075325969565" yScale="0.7072927919179716" xOffset="150" yOffset="37"/>
+    <component base="part2" xScale="0.9519075325969565" yScale="1.5089566807274317" xOffset="150" yOffset="382"/>
+    <component base="part4a" xScale="4.912353413997648e-17" xyScale="-0.921353057372123" yxScale="0.8849309201916792" yScale="5.114536890516572e-17" xOffset="306" yOffset="615"/>
+    <component base="K.lowerdiagonal" xScale="0.9456873606347171" yScale="0.9456873606347171" xOffset="442" yOffset="-42"/>
+    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="150" yOffset="467"/>
+    <component base="part1" xScale="0.6014542396030237" xyScale="-0.6170771888197398" yxScale="0.6575875689726552" yScale="0.6409389918063965" xOffset="656" yOffset="855"/>
   </outline>
   <lib>
     <dict>

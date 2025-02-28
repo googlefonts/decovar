@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="v" format="2">
-  <advance width="1062"/>
+  <advance width="873"/>
   <unicode hex="0076"/>
   <outline>
-    <component base="part1" xScale="-0.8237347944831784" xyScale="0.37370958815997507" yxScale="-0.40418861992503174" yScale="-0.8909170123402361" xOffset="1077" yOffset="861"/>
-    <component base="part1" xScale="-0.8725138491231668" xyScale="-0.37836280532996736" yxScale="0.3881365073203099" yScale="-0.895052244080725" xOffset="347" yOffset="927"/>
-    <component base="part4f"/>
-    <component base="part2lv"/>
-    <component base="part2lw"/>
+    <component base="part1" xScale="-0.8237347944831784" xyScale="0.37370958815997507" yxScale="-0.40418861992503174" yScale="-0.8909170123402361" xOffset="873" yOffset="861"/>
+    <component base="part1" xScale="-0.8725138491231668" xyScale="-0.37836280532996736" yxScale="0.3881365073203099" yScale="-0.895052244080725" xOffset="143" yOffset="927"/>
+    <component base="part4f" xOffset="-204"/>
+    <component base="part2lv" xOffset="-204"/>
+    <component base="part2lw" xOffset="-204"/>
   </outline>
   <lib>
     <dict>

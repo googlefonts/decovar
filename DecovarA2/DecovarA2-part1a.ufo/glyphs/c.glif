@@ -13,10 +13,10 @@
     <component base="part5.L" xOffset="-15"/>
     <component base="part5.La" xOffset="-15"/>
     <component base="part1a" xScale="-1.6674481586790208e-16" xyScale="0.8398724116673385" yxScale="-0.9923678788602251" yScale="-1.2229170577890213e-16" xOffset="1197" yOffset="865"/>
-    <component base="part1b" xScale="1.000635930895405" xyScale="-0.04407794000482134" yxScale="-0.00010081444374885045" yScale="0.8867572295226616" xOffset="675" yOffset="848"/>
-    <component base="part1/2b" yScale="0.8923489887297046" xOffset="593" yOffset="-250"/>
-    <component base="part1b" xScale="1.000635930895405" xyScale="0.04407794000482134" yxScale="-0.00010081444374885045" yScale="-0.8867572295226616" xOffset="675" yOffset="133"/>
-    <component base="part1/2b" yScale="-0.8923489887297046" xOffset="593" yOffset="1231"/>
+    <component base="part1b" xScale="0.9998537212183402" xyScale="-0.11909527986651597" yxScale="0.015039684366388037" yScale="0.8867909866266227" xOffset="672" yOffset="842"/>
+    <component base="part1/2b" xScale="0.9999703960402423" xyScale="-0.07496836288242231" yxScale="0.015235969540547296" yScale="0.8923753531481861" xOffset="572" yOffset="-250"/>
+    <component base="part1b" xScale="1.0008843424824545" xyScale="0.11312873847866274" yxScale="-0.0005354563737826012" yScale="-0.8865631617167019" xOffset="675" yOffset="139"/>
+    <component base="part1/2b" xScale="1.00022666388372" xyScale="0.06901690085603822" yxScale="-0.0004373597223144155" yScale="-0.8921466953850689" xOffset="594" yOffset="1231"/>
   </outline>
   <lib>
     <dict>

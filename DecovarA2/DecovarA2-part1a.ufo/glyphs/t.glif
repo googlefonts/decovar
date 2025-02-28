@@ -1,42 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t" format="2">
-  <advance width="594"/>
+  <advance width="566"/>
   <unicode hex="0074"/>
-  <anchor x="255" y="596.0" name="center"/>
   <outline>
-    <contour>
-      <point x="397" y="0" type="qcurve" smooth="yes"/>
-      <point x="454" y="0"/>
-      <point x="493" y="1"/>
-      <point x="512" y="3" type="qcurve"/>
-      <point x="512" y="20" type="line"/>
-      <point x="399" y="20" type="line" smooth="yes"/>
-      <point x="332" y="20"/>
-      <point x="266" y="80"/>
-      <point x="266" y="154" type="qcurve" smooth="yes"/>
-      <point x="266" y="948" type="line"/>
-      <point x="266" y="954" type="line"/>
-      <point x="266" y="1186" type="line"/>
-      <point x="245" y="1186" type="line"/>
-      <point x="245" y="154" type="line" smooth="yes"/>
-      <point x="245" y="68"/>
-      <point x="324" y="0"/>
-    </contour>
-    <contour>
-      <point x="0" y="940" type="line"/>
-      <point x="254" y="940" type="line"/>
-      <point x="258" y="940" type="line"/>
-      <point x="548" y="940" type="line"/>
-      <point x="548" y="960" type="line"/>
-      <point x="258" y="960" type="line"/>
-      <point x="254" y="960" type="line"/>
-      <point x="0" y="960" type="line"/>
-    </contour>
+    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="150" yOffset="622"/>
+    <component base="part2" xScale="0.9519075325969565" yScale="0.6603839441700379" xOffset="150" yOffset="222"/>
+    <component base="part2" xScale="0.9519075325969565" yScale="0.8534102081795857" xOffset="150" yOffset="782"/>
+    <component base="part3b" yScale="0.9631162677455448" xOffset="-177" yOffset="766"/>
+    <component base="part5le"/>
   </outline>
-  <lib>
-    <dict>
-      <key>floqMemesList</key>
-      <array/>
-    </dict>
-  </lib>
 </glyph>
