@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance width="492"/>
+  <unicode hex="2044"/>
+  <outline>
+    <component base="part1" xScale="0.8717045085380466" xyScale="-0.4388779054341574" yxScale="0.44969203975649846" yScale="0.8931836705737736" xOffset="-153" yOffset="73"/>
+    <component base="part1" xScale="0.8717045085380466" xyScale="-0.4388779054341574" yxScale="0.44969203975649846" yScale="0.8931836705737736" xOffset="138" yOffset="652"/>
+    <component base="part1" xScale="0.8717045085380466" xyScale="-0.4388779054341574" yxScale="0.44969203975649846" yScale="0.8931836705737736" xOffset="430" yOffset="1231"/>
+    <component base="part2" xScale="0.8717045085380466" xyScale="-0.4388779054341574" yxScale="0.49195734916838957" yScale="0.977131530133152" xOffset="-160" yOffset="60"/>
+    <component base="part2" xScale="0.8717045085380466" xyScale="-0.4388779054341574" yxScale="0.49100466104140816" yScale="0.9752392896598054" xOffset="132" yOffset="639"/>
+  </outline>
+</glyph>

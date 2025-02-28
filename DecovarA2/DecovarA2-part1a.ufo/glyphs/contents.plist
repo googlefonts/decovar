@@ -96,6 +96,8 @@
     <string>five.glif</string>
     <key>four</key>
     <string>four.glif</string>
+    <key>fraction</key>
+    <string>fraction.glif</string>
     <key>g</key>
     <string>g.glif</string>
     <key>h</key>
@@ -408,6 +410,8 @@
     <string>z.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
+    <key>zero.superior</key>
+    <string>zero.superior.glif</string>
     <key>zero.za</key>
     <string>zero.za.glif</string>
   </dict>
