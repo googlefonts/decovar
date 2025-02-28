@@ -128,6 +128,8 @@
     <string>one.glif</string>
     <key>p</key>
     <string>p.glif</string>
+    <key>parenleft</key>
+    <string>parenleft.glif</string>
     <key>part1</key>
     <string>part1.glif</string>
     <key>part1/2</key>
