@@ -63,6 +63,32 @@
           <string>X</string>
           <string>Y</string>
           <string>Z</string>
+          <string>a</string>
+          <string>b</string>
+          <string>c</string>
+          <string>d</string>
+          <string>e</string>
+          <string>f</string>
+          <string>g</string>
+          <string>h</string>
+          <string>i</string>
+          <string>j</string>
+          <string>k</string>
+          <string>l</string>
+          <string>m</string>
+          <string>n</string>
+          <string>o</string>
+          <string>p</string>
+          <string>q</string>
+          <string>r</string>
+          <string>s</string>
+          <string>t</string>
+          <string>u</string>
+          <string>v</string>
+          <string>w</string>
+          <string>x</string>
+          <string>y</string>
+          <string>z</string>
           <string>underscore</string>
           <string>sterling</string>
           <string>logicalnot</string>
@@ -178,32 +204,6 @@
           <string>part1zl</string>
           <string>part1zm</string>
           <string>part1zn</string>
-          <string>a</string>
-          <string>b</string>
-          <string>c</string>
-          <string>d</string>
-          <string>e</string>
-          <string>f</string>
-          <string>g</string>
-          <string>h</string>
-          <string>i</string>
-          <string>j</string>
-          <string>k</string>
-          <string>l</string>
-          <string>m</string>
-          <string>n</string>
-          <string>o</string>
-          <string>p</string>
-          <string>q</string>
-          <string>r</string>
-          <string>s</string>
-          <string>t</string>
-          <string>u</string>
-          <string>v</string>
-          <string>w</string>
-          <string>x</string>
-          <string>y</string>
-          <string>z</string>
         </array>
         <key>type</key>
         <string>glyphList</string>
@@ -285,6 +285,32 @@
       <string>X</string>
       <string>Y</string>
       <string>Z</string>
+      <string>a</string>
+      <string>b</string>
+      <string>c</string>
+      <string>d</string>
+      <string>e</string>
+      <string>f</string>
+      <string>g</string>
+      <string>h</string>
+      <string>i</string>
+      <string>j</string>
+      <string>k</string>
+      <string>l</string>
+      <string>m</string>
+      <string>n</string>
+      <string>o</string>
+      <string>p</string>
+      <string>q</string>
+      <string>r</string>
+      <string>s</string>
+      <string>t</string>
+      <string>u</string>
+      <string>v</string>
+      <string>w</string>
+      <string>x</string>
+      <string>y</string>
+      <string>z</string>
       <string>underscore</string>
       <string>sterling</string>
       <string>logicalnot</string>
@@ -400,32 +426,10 @@
       <string>part1zl</string>
       <string>part1zm</string>
       <string>part1zn</string>
-      <string>a</string>
-      <string>b</string>
-      <string>c</string>
-      <string>d</string>
-      <string>e</string>
-      <string>f</string>
-      <string>g</string>
-      <string>h</string>
-      <string>i</string>
-      <string>j</string>
-      <string>k</string>
-      <string>l</string>
-      <string>m</string>
-      <string>n</string>
-      <string>o</string>
-      <string>p</string>
-      <string>q</string>
-      <string>r</string>
-      <string>s</string>
-      <string>t</string>
-      <string>u</string>
-      <string>v</string>
-      <string>w</string>
-      <string>x</string>
-      <string>y</string>
-      <string>z</string>
+      <string>zero.zb</string>
+      <string>zero.zc</string>
+      <string>zero.zd</string>
+      <string>psrtn1</string>
     </array>
     <key>public.truetype.instructions</key>
     <dict>

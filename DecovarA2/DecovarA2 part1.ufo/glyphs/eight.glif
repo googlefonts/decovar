@@ -3,46 +3,6 @@
   <advance width="1064"/>
   <unicode hex="0038"/>
   <outline>
-    <contour>
-      <point x="788" y="1125" type="qcurve"/>
-      <point x="746" y="1125"/>
-      <point x="746" y="1125"/>
-      <point x="739" y="1149" type="qcurve"/>
-      <point x="730" y="1174"/>
-      <point x="687" y="1216"/>
-      <point x="658" y="1227" type="qcurve"/>
-      <point x="614" y="1239"/>
-      <point x="614" y="1239"/>
-      <point x="614" y="1278" type="qcurve"/>
-      <point x="614" y="1321"/>
-      <point x="614" y="1321"/>
-      <point x="658" y="1311" type="qcurve"/>
-      <point x="714" y="1294"/>
-      <point x="796" y="1227"/>
-      <point x="821" y="1164" type="qcurve"/>
-      <point x="831" y="1125"/>
-      <point x="831" y="1125"/>
-    </contour>
-    <contour>
-      <point x="874" y="1125" type="qcurve"/>
-      <point x="831" y="1125"/>
-      <point x="831" y="1125"/>
-      <point x="821" y="1164" type="qcurve"/>
-      <point x="796" y="1227"/>
-      <point x="714" y="1294"/>
-      <point x="658" y="1311" type="qcurve"/>
-      <point x="614" y="1321"/>
-      <point x="614" y="1321"/>
-      <point x="614" y="1361" type="qcurve"/>
-      <point x="614" y="1402"/>
-      <point x="614" y="1402"/>
-      <point x="659" y="1394" type="qcurve"/>
-      <point x="775" y="1369"/>
-      <point x="884" y="1264"/>
-      <point x="906" y="1175" type="qcurve"/>
-      <point x="915" y="1125"/>
-      <point x="915" y="1125"/>
-    </contour>
     <component base="part4a" xScale="3.3306690738754686e-16" xyScale="-0.9277978945011396" yxScale="1" yScale="3.0901877540217205e-16" xOffset="533" yOffset="835"/>
     <component base="part4a" xScale="-3.3306690738754696e-16" xyScale="0.9277978945011396" yxScale="-1" yScale="-2.7755575615628914e-16" xOffset="533" yOffset="682"/>
     <component base="part1a" xScale="-1.0094488871518628" xyScale="-1.2490009027033009e-16" yxScale="1.2608025712855177e-16" yScale="-1.000000000000001" xOffset="255" yOffset="1084"/>
@@ -57,6 +17,8 @@
     <component base="part1zl"/>
     <component base="part1zm"/>
     <component base="part1zn"/>
+    <component base="zero.zb"/>
+    <component base="zero.zc"/>
   </outline>
   <lib>
     <dict>

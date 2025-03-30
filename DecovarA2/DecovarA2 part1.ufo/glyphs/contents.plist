@@ -346,6 +346,8 @@
     <string>plus.glif</string>
     <key>prt2o</key>
     <string>prt2o.glif</string>
+    <key>psrtn1</key>
+    <string>psrtn1.glif</string>
     <key>q</key>
     <string>q.glif</string>
     <key>question</key>
@@ -396,5 +398,11 @@
     <string>zero.glif</string>
     <key>zero.za</key>
     <string>zero.za.glif</string>
+    <key>zero.zb</key>
+    <string>zero.zb.glif</string>
+    <key>zero.zc</key>
+    <string>zero.zc.glif</string>
+    <key>zero.zd</key>
+    <string>zero.zd.glif</string>
   </dict>
 </plist>

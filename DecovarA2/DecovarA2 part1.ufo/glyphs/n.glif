@@ -4,63 +4,14 @@
   <unicode hex="006E"/>
   <anchor x="591.0" y="960.0" name="top"/>
   <outline>
-    <contour>
-      <point x="175" y="375" type="qcurve"/>
-      <point x="189" y="476"/>
-      <point x="270" y="644"/>
-      <point x="339" y="719" type="qcurve" smooth="yes"/>
-      <point x="416" y="803"/>
-      <point x="702" y="918"/>
-      <point x="818" y="919" type="qcurve"/>
-      <point x="858" y="916"/>
-      <point x="858" y="916"/>
-      <point x="858" y="882" type="qcurve"/>
-      <point x="858" y="842"/>
-      <point x="858" y="842"/>
-      <point x="821" y="843" type="qcurve"/>
-      <point x="721" y="840"/>
-      <point x="456" y="748"/>
-      <point x="389" y="672" type="qcurve"/>
-      <point x="322" y="596"/>
-      <point x="275" y="469"/>
-      <point x="256" y="379" type="qcurve"/>
-      <point x="247" y="335"/>
-      <point x="247" y="335"/>
-      <point x="209" y="335" type="qcurve"/>
-      <point x="170" y="335"/>
-      <point x="170" y="335"/>
-    </contour>
-    <contour>
-      <point x="256" y="379" type="qcurve"/>
-      <point x="275" y="469"/>
-      <point x="322" y="596"/>
-      <point x="389" y="672" type="qcurve" smooth="yes"/>
-      <point x="456" y="748"/>
-      <point x="721" y="840"/>
-      <point x="821" y="843" type="qcurve"/>
-      <point x="858" y="842"/>
-      <point x="858" y="842"/>
-      <point x="858" y="809" type="qcurve"/>
-      <point x="858" y="769"/>
-      <point x="858" y="769"/>
-      <point x="824" y="769" type="qcurve" smooth="yes"/>
-      <point x="705" y="769"/>
-      <point x="500" y="694"/>
-      <point x="442" y="630" type="qcurve" smooth="yes"/>
-      <point x="386" y="569"/>
-      <point x="343" y="451"/>
-      <point x="331" y="372" type="qcurve"/>
-      <point x="328" y="335"/>
-      <point x="328" y="335"/>
-      <point x="285" y="335" type="qcurve"/>
-      <point x="247" y="335"/>
-      <point x="247" y="335"/>
-    </contour>
     <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="172"/>
-    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="172" yOffset="768"/>
-    <component base="part2" xScale="0.9513618792085717" yScale="1.369464422955638" xOffset="172" yOffset="-64"/>
-    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="702"/>
-    <component base="part2" xScale="0.9513618792085717" yScale="1.369464422955638" xOffset="702" yOffset="-64"/>
+    <component base="part2" xScale="0.9513618792085717" yScale="1.367173769794779" xOffset="172" yOffset="-64"/>
+    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="802"/>
+    <component base="part2" xScale="0.9513618792085717" yScale="1.050702751464619" xOffset="802" yOffset="-15"/>
+    <component base="part1" xScale="0.9513618792085717" yScale="0.9513618792085716" xOffset="172" yOffset="767"/>
+    <component base="zero.zd"/>
+    <component base="part1/2" xScale="1.0302886436325884" yScale="1.030288643632588" xOffset="564" yOffset="764"/>
+    <component base="psrtn1"/>
   </outline>
   <lib>
     <dict>
